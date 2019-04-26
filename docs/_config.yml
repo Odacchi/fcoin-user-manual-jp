@@ -1,2 +1,8 @@
 theme: jekyll-theme-cayman
 google_analytics: UA-139093615-1
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /images/fcoin-user-manual.png
