@@ -5,4 +5,4 @@ defaults:
       path: ""
     values:
       image:
-        path: images/fcoin-user-manual.png
+        path: /docs/images/fcoin-user-manual.png
