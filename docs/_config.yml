@@ -1,9 +1,9 @@
 theme: jekyll-theme-cayman
 google_analytics: UA-139093615-1
-#logo: /images/fcoin-user-manual.png
+logo: /images/fcoin-user-manual.png
 twitter:
   username: lucied2007
-  card: images/fcoin-user-manual.png
+  card: https://odacchi.github.io/fcoin-user-manual/images/fcoin-user-manual.png
 defaults:
   - scope:
       path: ""
