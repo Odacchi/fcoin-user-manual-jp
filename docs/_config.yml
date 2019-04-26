@@ -12,3 +12,7 @@ defaults:
     values:
       image:
         path: /images/fcoin-user-manual.png
+
+docs:
+  - tltle: 工事中
+    url: sample.md
