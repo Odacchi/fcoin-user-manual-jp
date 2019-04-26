@@ -5,7 +5,7 @@ logo: /images/fcoin-user-manual.png
 
 twitter:
   username: lucied2007
-  card: FCoinのトリセツ
+  card: summary_large_image
 defaults:
   - scope:
       path: ""
