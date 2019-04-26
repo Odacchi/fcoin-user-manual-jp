@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 google_analytics: UA-139093615-1
-image: /images/fcoin-user-manual.png
+twitter:
+  username: lucied2007
 defaults:
   - scope:
       path: ""
