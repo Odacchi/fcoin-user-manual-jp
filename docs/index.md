@@ -2,6 +2,16 @@
 
 **2019/4/25に作ったばかりです。まだまだ工事中なのであしからず。**
 
+## リンク集
+
+- 本家
+    - [FCoin公式サイト](https://www.fcoin.com)
+    - [FCoinJP公式サイト](https://www.fcoinjp.com)
+
+- Telegram
+    - [FCoinお知らせ](https://t.me/fcoinfanjapanese)
+    - [FCoin雑談](https://t.me/fcoinchatjapanese)
+
 ## 目的別早見表
 
 - どこかに送金したい  
