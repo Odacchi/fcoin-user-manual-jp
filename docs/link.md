@@ -5,6 +5,7 @@
 - 本家
     - [FCoin公式サイト](https://www.fcoin.com)
     - [FCoinJP公式サイト](https://www.fcoinjp.com)
+    - [FToken公式サイト](https://ftoken.com)
     
 - Telegram
     - [FCoinお知らせ](https://t.me/fcoinfanjapanese)
