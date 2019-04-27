@@ -1,0 +1,1 @@
+![収益分配比率](./images/revenue-share-ratio.svg)
