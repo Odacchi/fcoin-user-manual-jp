@@ -4,10 +4,10 @@
 
 - 本家
     - [FCoin公式サイト](https://www.fcoin.com)
-    - [FCoinJP公式サイト](https://www.fcoinjp.com)
     - [FToken公式サイト](https://ftoken.com)
+    - [FCoinJP公式サイト](https://www.fcoinjp.com)
     
-- Telegram
+- 本家Telegram
     - [FCoinお知らせ](https://t.me/fcoinfanjapanese)
     - [FCoin雑談](https://t.me/fcoinchatjapanese)
     

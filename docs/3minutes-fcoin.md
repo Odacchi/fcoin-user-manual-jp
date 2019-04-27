@@ -1,3 +1,5 @@
+[戻る](./)
+
 # 3分でFCoinのサービスを理解するページ
 
 詳細な説明よりも、FCoinのサービス全体を把握したい人向けのページ。
@@ -9,26 +11,24 @@ FCoinはサービスごとに口座がわかれています。
 口座間の資金移動（振替=Funds transfer）は無料で即時反映されます。  
 ここでは目的別に各口座の概要を説明します。
 
-- どこかに送金したい  
-    - マイウォレット
 
-- 現物取引したい  
-    - トレーディングアカウント
+| 目的        | サービス          | 説明 |
+|:-------------|:------------------|:------|
+| どこかに送金したい | [マイウォレット](https://exchange.fcoin.com/finance/assets) |   |
+| 現物取引したい | [トレーディングアカウント](https://exchange.fcoin.com/finance/exchange) |  |
+| 預金したい、利息ほしい | [ファイナンシャルアカウント](https://exchange.fcoin.com/finance/financial)（通称:理財）*1 |  |
+| レバレッジ取引したい | [マージンアカウント](https://exchange.fcoin.com/finance/margin)*2 |  |
+| 配当ほしい | [ロックアカウント](https://exchange.fcoin.com/finance/lock) *3 |  |
 
-- 預金したい、利息ほしい  
-    - ファイナンシャルアカウント（通称:理財  
-    ※対応通貨（2019/4/25現在  
+*1 対応通貨  
     BTC, ETH, XRP, LTC, BCH, EOS, ETC, USDT
+    
+*2 対応通貨  
+    BTC, ETH, XRP, LTC, BCH, EOS, ETC （全てUSDTペア）
 
-- レバレッジ取引したい  
-    - マージンアカウント  
-    ※対応通貨（2019/4/25現在  
-    BTC, ETH, XRP, LTC, BCH, EOS, ETC  
-    全てUSDTペア
+*3 対応通貨  
+    FTのみ
 
-- 配当ほしい  
-    - ロックアカウント  
-    ※FTのみ対応
 
 ## 各種サービスの利用条件
 
