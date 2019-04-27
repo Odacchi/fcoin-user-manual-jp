@@ -16,18 +16,9 @@ FCoinはサービスごとに口座がわかれています。
 |:-------------|:------------------|:------|
 | どこかに送金したい | [マイウォレット](https://exchange.fcoin.com/finance/assets) |   |
 | 現物取引したい | [トレーディングアカウント](https://exchange.fcoin.com/finance/exchange) |  |
-| 預金したい、利息ほしい | [ファイナンシャルアカウント](https://exchange.fcoin.com/finance/financial)（通称:理財）*1 |  |
-| レバレッジ取引したい | [マージンアカウント](https://exchange.fcoin.com/finance/margin)*2 |  |
-| 配当ほしい | [ロックアカウント](https://exchange.fcoin.com/finance/lock) *3 |  |
-
-*1 対応通貨  
-    BTC, ETH, XRP, LTC, BCH, EOS, ETC, USDT
-    
-*2 対応通貨  
-    BTC, ETH, XRP, LTC, BCH, EOS, ETC （全てUSDTペア）
-
-*3 対応通貨  
-    FTのみ
+| 預金したい、利息ほしい | [ファイナンシャルアカウント](https://exchange.fcoin.com/finance/financial)（通称:理財） | 対応通貨：<br>BTC, ETH, XRP, LTC, BCH, EOS, ETC, USDT |
+| レバレッジ取引したい | [マージンアカウント](https://exchange.fcoin.com/finance/margin) | 対応通貨：<br>BTC, ETH, XRP, LTC, BCH, EOS, ETC （全てUSDTペア） |
+| 配当ほしい | [ロックアカウント](https://exchange.fcoin.com/finance/lock) | 対応通貨：<br>FTのみ |
 
 
 ## 各種サービスの利用条件
@@ -46,12 +37,12 @@ FCoinにはFTロックアップによる毎日の配当以外にも多くのお�
     - 理財マイニング
 
 - 全員参加可能  
-    - 取引マイニング※1  
+    - 取引マイニング*1  
     - 未約定注文マイニング  
     - レバレッジ利用  
     - レバレッジマイニング  
     - 理財利用  
     - FTロックアップによる配当  
 
-    ※1  
+    *1  
     KYCしておいた方が効率が良い
