@@ -1,3 +1,40 @@
+# Fcoinのトリセツ
+
+FCoinの日本語取扱説明書（トリセツ）をつくる個人的プロジェクトです。  
+今のところ、広告などをつけるつもりはなく、サイトからの収益は考えていません。
+
+## ローカルでの実行
+
+Macを想定しています。
+
+### 初期設定
+
+以下のコマンドを叩いてください。
+
+~~~
+$ brew install rbenv ruby-build
+$ echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
+$ source ~/.bash_profile
+$ rbenv install 2.6.0
+$ rbenv global 2.6.0
+$ gem install bundler
+$ bundle install --path vendor/bundle
+~~~
+
+### 起動
+
+下記コマンドを叩くと起動します。  
+トップページは http://localhost:4000/ になります。
+~~~
+$ bundle exec jekyll s -s docs
+~~~
+
+
+---
+
+以降、デフォルトのreadme
+TODO 一応残しておくが消去予定
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Odacchi/fcoin-user-manual-jp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
