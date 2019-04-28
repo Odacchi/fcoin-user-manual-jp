@@ -22,9 +22,10 @@
     <dd>
        A. 出金の上限制限とパスワード変更に制限がかかるようです。
        その他、出金トラブル時の対応にはKYCを済ませていたほうがスムーズに対応してもらえます。
-       KYCすることを強く推奨します。<br><br>
-       預金と引き出しの時間と制限：<br>
-       https://support.fcoin.com/hc/en-us/articles/360003738993-Deposit-and-Withdrawal-Time-and-Limits
+       KYCすることを強く推奨します。<br>
+       <a href="https://support.fcoin.com/hc/en-us/articles/360003738993-Deposit-and-Withdrawal-Time-and-Limits" target="_brank">
+           預金と引き出しの時間と制限
+       </a>
     </dd>
     <dt>
         Q. 配当はどうすればもらえますか？
