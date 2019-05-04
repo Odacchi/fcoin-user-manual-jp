@@ -2,12 +2,14 @@
 
 # リンク集
 
-- 本家
+## FCoin
+
+- FCoin公式
     - [FCoin公式サイト](https://www.fcoin.com)
     - [FToken公式サイト](https://ftoken.com)
-    - [FCoinJP公式サイト](https://www.fcoinjp.com)
-    
-- 本家Telegram
+    - [FCoin公式Twitter（英語）](https://twitter.com/FCoinOfficial)
+
+- FCoin日本コミュニティTelegram
     - [FCoinお知らせ](https://t.me/fcoinfanjapanese)
     - [FCoin雑談](https://t.me/fcoinchatjapanese)
     
@@ -17,3 +19,10 @@
         - [Telegram](https://t.me/OnlinePro_Exchange)
     - FCJ
         - [トップページ](https://www.fcoin.com/category/japancommunity)
+        
+
+## FCoinJP
+
+- FCoinJP
+    - [FCoinJP公式サイト](https://www.fcoinjp.com)
+    - [FCoinJP公式Twitter](https://twitter.com/fcoin_jp)
