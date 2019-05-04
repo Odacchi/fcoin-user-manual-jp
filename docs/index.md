@@ -67,7 +67,5 @@ FTの買い戻しバーンを行なっていますが、徐々に保有分のFT�
 ![FTの保有割合](./images/ft-share.png)
 
 *FTの保有枚数は2019年4月末時点のデータを元としています。
- - FCoin創業チームFTロックアップアドレス
-    https://etherscan.io/token/0xd37532d304214d588aeeac4c365e8f1d72e2304a?a=0xa51b6001e00879ca95a0f5e77e3e49469c920a7e
- - FCoinファンドFTロックアップアドレス
-    https://etherscan.io/token/0xd37532d304214d588aeeac4c365e8f1d72e2304a?a=0xf6b64d970a9d6c2771bc79a34133d9f4b93990c0
+ - [FCoin創業チームFTロックアップアドレス](https://etherscan.io/token/0xd37532d304214d588aeeac4c365e8f1d72e2304a?a=0xa51b6001e00879ca95a0f5e77e3e49469c920a7e)
+ - [FCoinファンドFTロックアップアドレス](https://etherscan.io/token/0xd37532d304214d588aeeac4c365e8f1d72e2304a?a=0xf6b64d970a9d6c2771bc79a34133d9f4b93990c0)
