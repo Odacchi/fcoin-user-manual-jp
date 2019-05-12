@@ -2,9 +2,9 @@ theme: jekyll-theme-cayman
 google_analytics: UA-139093615-1
 title: fcoin-manual
 description: FCoinのトリセツ。
-url: www.fcoin-manual.com
+url: https://www.fcoin-manual.com
 
-#logo: /images/fcoin-manual.png
+logo: /images/fcoin-manual.png
 
 twitter:
   username: lucied2007
