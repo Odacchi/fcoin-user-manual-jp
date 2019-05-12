@@ -4,7 +4,7 @@ title: fcoin-manual
 description: FCoinのトリセツ。
 url: www.fcoin-manual.com
 
-logo: /images/fcoin-user-manual.png
+logo: /images/fcoin-manual.png
 
 twitter:
   username: lucied2007
@@ -14,7 +14,7 @@ defaults:
       path: ""
     values:
       image:
-        path: /images/fcoin-user-manual.png
+        path: /images/fcoin-manual.png
 
 docs:
   - tltle: 工事中
