@@ -11,6 +11,7 @@ FTホルダーのFTホルダーによるFTホルダーのための日本語ト�
 - [3分でFCoinのサービスを理解するページ](./3minutes-fcoin.html)
 - [よくある質問](./faq.html)
 - [リンク集](./link.html)
+- 【準備中】 FCoin頻出英語集
 
 ---
 

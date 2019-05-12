@@ -20,6 +20,10 @@
     - FCJ
         - [トップページ](https://www.fcoin.com/category/japancommunity)
         
+- FTokenノード日本コミュニティ
+    - FTokenTokyo
+        - [Telegram](https://t.me/ftokentokyo)
+        
 
 ## FCoinJP
 
