@@ -9,7 +9,7 @@
 マイニングについて詳細を知りたい人向けのページです。
 
 <div style="text-align: right;">
-    <a href="https://www.fcoin.com/mining" target="_brank">FCoinのマイニング説明ページへ（英語）</a>  
+    <a href="https://www.fcoin.com/mining" target="_brank">FCoinのマイニング説明ページへ（日本語未対応）</a>  
 </div>  
 
 ## マイニングとは
