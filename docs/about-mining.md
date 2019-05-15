@@ -15,14 +15,14 @@ FCoinプラットフォームを利用すると、１年ロックアップされ
 
 現時点では以下のようなマイニングの種類があります。
 
-- [取引マイニング (Trade mining, Trading as mining)](#取引マイニング (Trade mining, Trading as mining))
-- [未約定注文マイニング (Limit-order mining)](#未約定注文マイニング (Limit-order mining))
-- [直近板並べマイニング (Sorting minig)](#直近板並べマイニング (Sorting minig))
-- [レバレッジマイニング (Lending as mining, Leverage mining)](#レバレッジマイニング (Lending as mining, Leverage mining))
-- [理財マイニング (Financial mining)](#理財マイニング (Financial mining))
-- [FTロックアップマイニング (Lockup mining)](#FTロックアップマイニング (Lockup mining))
-- [投票マイニング (Mining currencies voting)](#投票マイニング (Mining currencies voting))
-- [PRマイニング (Promotion mining, PR mining)](#PRマイニング (Promotion mining, PR mining))
+- [取引マイニング (Trade mining, Trading as mining)](#取引マイニング-Trade-mining-Trading-as-mining)
+- [未約定注文マイニング (Limit-order mining)](#未約定注文マイニング-Limit-order-mining)
+- [直近板並べマイニング (Sorting minig)](#直近板並べマイニング-Sorting-minig)
+- [レバレッジマイニング (Lending as mining, Leverage mining)](#レバレッジマイニング-Lending-as-mining-Leverage-mining)
+- [理財マイニング (Financial mining)](#理財マイニング-Financial-mining)
+- [FTロックアップマイニング (Lockup mining)](#FTロックアップマイニング-Lockup-mining)
+- [投票マイニング (Mining currencies voting)](#投票マイニング-Mining-currencies-voting)
+- [PRマイニング (Promotion mining, PR mining)](#PRマイニング-Promotion-mining-PR-mining)
 
 ### 取引マイニング (Trade mining, Trading as mining)
 
