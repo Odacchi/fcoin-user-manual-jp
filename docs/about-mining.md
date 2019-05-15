@@ -20,9 +20,9 @@ FCoinプラットフォームを利用すると、１年ロックアップされ
 - [直近板並べマイニング (Sorting minig)](#直近板並べマイニング-sorting-minig)
 - [レバレッジマイニング (Lending as mining, Leverage mining)](#レバレッジマイニング-lending-as-mining-leverage-mining)
 - [理財マイニング (Financial mining)](#理財マイニング-financial-mining)
-- [FTロックアップマイニング (Lockup mining)](#FTロックアップマイニング-lockup-mining)
+- [FTロックアップマイニング (Lockup mining)](#ftロックアップマイニング-lockup-mining)
 - [投票マイニング (Mining currencies voting)](#投票マイニング-mining-currencies-voting)
-- [PRマイニング (Promotion mining, PR mining)](#PRマイニング-promotion-mining-pr-mining)
+- [PRマイニング (Promotion mining, PR mining)](#prマイニング-promotion-mining-pr-mining)
 
 ### 取引マイニング (Trade mining, Trading as mining)
 
