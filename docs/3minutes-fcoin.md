@@ -17,9 +17,10 @@ FCoinはサービスごとに口座がわかれています。
 |:-------------|:------------------|:------|
 | どこかに送金したい | [マイウォレット](https://exchange.fcoin.com/finance/assets) | 各取引所やウォレットへの送金のほか、FCoinの各口座への送金元となる |
 | 現物取引したい | [トレーディングアカウント](https://exchange.fcoin.com/finance/exchange) | 現物取引をすることができる。メジャー通貨のメインボードと、草取引用のFOneというブランドに分かれている |
-| 預金したい、利息ほしい | [ファイナンシャルアカウント](https://exchange.fcoin.com/finance/financial)（通称:理財） | 預金することで当該通貨を利息で増やすことができる<br>対応通貨：<br>BTC, ETH, XRP, LTC, BCH, EOS, ETC, ADA, ZEC, DASH, XLM, USDT,  |
+| 預金したい、利息ほしい | [ファイナンシャルアカウント](https://exchange.fcoin.com/finance/financial)（通称:理財） | 預金することで当該通貨を利息で増やすことができる<br>対応通貨：<br>BTC, ETH, XRP, LTC, BCH, EOS, ETC, ADA, ZEC, DASH, XLM, USDT  |
 | レバレッジ取引したい | [マージンアカウント](https://exchange.fcoin.com/finance/margin) | レバレッジをかけた取引ができる。レバレッジ分はローンとなるので利子が発生する<br>対応通貨：<br>BTC, ETH, XRP, LTC, BCH, EOS, ETC, ADA, ZEC, DASH, XLM（全てUSDTペア） |
 | 配当ほしい | [ロックアカウント](https://exchange.fcoin.com/finance/lock) | FTをロックアップすることで、受け取ることができる。毎日の配当総額はプラットフォーム収益の16%*である。<br>対応通貨：<br>FTのみ |
+
 *残りの64%分はロックアップしていなくても毎年1/1に一斉分配される
 
 ## 各種サービスの利用条件
