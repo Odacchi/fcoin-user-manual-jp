@@ -18,6 +18,7 @@ FCoinはサービスごとに口座がわかれています。
 | 預金したい、利息ほしい | [理財口座](理財口座（financial-account）)（Financial Account） | 
 | レバレッジ取引したい | [マージン口座](マージン口座（margin-account）) （Margin Account）|
 | 配当ほしい | [ロック口座](ロック口座（lock-account）)（Lock Account） |
+
 <br>
   
 - ### マイウォレット（My wallet）
@@ -46,7 +47,7 @@ FCoinはサービスごとに口座がわかれています。
             BTC, ETH, XRP, LTC, BCH, EOS, ETC
         - 3倍まで  
             ADA, ZEC, DASH, XLM
-    
+      
     - <a href="https://exchange.fcoin.com/finance/margin" target="_brank">FCoinのマージン口座へ</a>
 
 - ### ロック口座（Lock account）
