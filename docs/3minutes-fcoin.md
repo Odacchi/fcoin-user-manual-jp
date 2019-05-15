@@ -16,8 +16,8 @@ FCoinはサービスごとに口座がわかれています。
 |:-------------|:------------------|:------|
 | どこかに送金したい | [マイウォレット](https://exchange.fcoin.com/finance/assets) |   |
 | 現物取引したい | [トレーディングアカウント](https://exchange.fcoin.com/finance/exchange) |  |
-| 預金したい、利息ほしい | [ファイナンシャルアカウント](https://exchange.fcoin.com/finance/financial)（通称:理財） | 対応通貨：<br>BTC, ETH, XRP, LTC, BCH, EOS, ETC, USDT |
-| レバレッジ取引したい | [マージンアカウント](https://exchange.fcoin.com/finance/margin) | 対応通貨：<br>BTC, ETH, XRP, LTC, BCH, EOS, ETC （全てUSDTペア） |
+| 預金したい、利息ほしい | [ファイナンシャルアカウント](https://exchange.fcoin.com/finance/financial)（通称:理財） | 対応通貨：<br>BTC, ETH, XRP, LTC, BCH, EOS, ETC, ADA, ZEC, DASH, XLM, USDT,  |
+| レバレッジ取引したい | [マージンアカウント](https://exchange.fcoin.com/finance/margin) | 対応通貨：<br>BTC, ETH, XRP, LTC, BCH, EOS, ETC, ADA, ZEC, DASH, XLM（全てUSDTペア） |
 | 配当ほしい | [ロックアカウント](https://exchange.fcoin.com/finance/lock) | 対応通貨：<br>FTのみ |
 
 
