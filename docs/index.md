@@ -9,7 +9,7 @@ FTホルダーのFTホルダーによるFTホルダーのための日本語ト�
 ## メニュー
 
 - [3分でFCoinのサービスを理解するページ](./3minutes-fcoin.html)
-- 【準備中】マイニング詳解
+- [マイニング詳解](./about-mining.md)
 - [よくある質問](./faq.html)
 - [リンク集](./link.html)
 - 【準備中】 FCoin頻出英語集
