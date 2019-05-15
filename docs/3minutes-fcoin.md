@@ -25,13 +25,13 @@ FCoinはサービスごとに口座がわかれています。
     各取引所やウォレットへの送金のほか、FCoinの各口座への送金元となります。
     
     - <a href="https://exchange.fcoin.com/finance/assets" target="_brank">FCoinのマイウォレットへ</a>  
-
+      
     
 - ### 取引口座（Trading account）
     現物取引をすることができます。メジャー通貨のメインボードと、草取引用のFOneというブランドに分かれています。
     
     - <a href="https://exchange.fcoin.com/finance/exchange" target="_brank">FCoinの取引口座へ</a>  
-
+      
     
 - ### 理財口座（Financial account）
     預金することで当該通貨を利息で増やすことができます。
@@ -40,7 +40,7 @@ FCoinはサービスごとに口座がわかれています。
         BTC, ETH, XRP, LTC, BCH, EOS, ETC, ADA, ZEC, DASH, XLM, USDT
         
     - <a href="https://exchange.fcoin.com/finance/financial" target="_brank">FCoinの理財口座へ</a>  
-
+      
     
 - ### マージン口座（Margin account）
     レバレッジをかけた取引ができます。レバレッジ分はローンとなるので利子が発生します。
@@ -52,7 +52,7 @@ FCoinはサービスごとに口座がわかれています。
             ADA, ZEC, DASH, XLM
       
     - <a href="https://exchange.fcoin.com/finance/margin" target="_brank">FCoinのマージン口座へ</a>  
-
+      
   
 - ### ロック口座（Lock account）
     FTをロックアップすることで、受け取ることができます。毎日の配当総額はプラットフォーム収益の16%*です。  
@@ -62,7 +62,7 @@ FCoinはサービスごとに口座がわかれています。
         FTのみ
     
     - <a href="https://exchange.fcoin.com/finance/lock" target="_brank">FCoinのロック口座へ</a>  
-
+      
 
 ## 各種サービスの利用条件
 
