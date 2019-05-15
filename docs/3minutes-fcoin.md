@@ -15,12 +15,12 @@ FCoinはサービスごとに口座がわかれています。
 
 | 目的        | 利用口座          | 説明 |
 |:-------------|:------------------|:------|
-| どこかに送金したい | [マイウォレット](https://exchange.fcoin.com/finance/assets) |   |
-| 現物取引したい | [トレーディングアカウント](https://exchange.fcoin.com/finance/exchange) |  |
-| 預金したい、利息ほしい | [ファイナンシャルアカウント](https://exchange.fcoin.com/finance/financial)（通称:理財） | 対応通貨：<br>BTC, ETH, XRP, LTC, BCH, EOS, ETC, ADA, ZEC, DASH, XLM, USDT,  |
-| レバレッジ取引したい | [マージンアカウント](https://exchange.fcoin.com/finance/margin) | 対応通貨：<br>BTC, ETH, XRP, LTC, BCH, EOS, ETC, ADA, ZEC, DASH, XLM（全てUSDTペア） |
-| 配当ほしい | [ロックアカウント](https://exchange.fcoin.com/finance/lock) | 対応通貨：<br>FTのみ |
-
+| どこかに送金したい | [マイウォレット](https://exchange.fcoin.com/finance/assets) | 各取引所やウォレットへの送金のほか、FCoinの各口座への送金元となる |
+| 現物取引したい | [トレーディングアカウント](https://exchange.fcoin.com/finance/exchange) | 現物取引をすることができる。メジャー通貨のメインボードと、草取引用のFOneというブランドに分かれている |
+| 預金したい、利息ほしい | [ファイナンシャルアカウント](https://exchange.fcoin.com/finance/financial)（通称:理財） | 預金することで当該通貨を利息で増やすことができる<br>対応通貨：<br>BTC, ETH, XRP, LTC, BCH, EOS, ETC, ADA, ZEC, DASH, XLM, USDT,  |
+| レバレッジ取引したい | [マージンアカウント](https://exchange.fcoin.com/finance/margin) | レバレッジをかけた取引ができる。レバレッジ分はローンとなるので利子が発生する<br>対応通貨：<br>BTC, ETH, XRP, LTC, BCH, EOS, ETC, ADA, ZEC, DASH, XLM（全てUSDTペア） |
+| 配当ほしい | [ロックアカウント](https://exchange.fcoin.com/finance/lock) | FTをロックアップすることで、受け取ることができる。毎日の配当総額はプラットフォーム収益の16%*である。<br>対応通貨：<br>FTのみ |
+*残りの64%分はロックアップしていなくても毎年1/1に一斉分配される
 
 ## 各種サービスの利用条件
 
@@ -33,13 +33,13 @@ FCoinにはFTロックアップによる毎日の配当以外にも多くのお�
     <dl>
         <dt>
             各選挙への投票（
-            <a href="./about-mining.html" target="_brank">
+            <a href="./about-mining.html#投票マイニング-mining-currencies-voting" target="_brank">
                 投票マイニング
             </a>）
         </dt>
         <dd>投票が採用されるとFTが配布される</dd>
         <dt>
-            <a href="./about-mining.html" target="_brank">
+            <a href="./about-mining.html#prマイニング-promotion-mining-pr-mining" target="_brank">
                 PRマイニング
             </a>
         </dt>
@@ -57,7 +57,7 @@ FCoinにはFTロックアップによる毎日の配当以外にも多くのお�
 
     <dl>
         <dt>
-            <a href="./about-mining.html" target="_brank">
+            <a href="./about-mining.html#理財マイニング-financial-mining" target="_brank">
                 理財マイニング
             </a>
         </dt>
@@ -70,7 +70,7 @@ FCoinにはFTロックアップによる毎日の配当以外にも多くのお�
 .
     <dl>
         <dt>
-            <a href="./about-mining.html#%E5%8F%96%E5%BC%95%E3%83%9E%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0-trade-mining-trading-as-mining" target="_brank">
+            <a href="./about-mining.html#取引マイニング-trade-mining-trading-as-mining" target="_brank">
                 取引マイニング
             </a>
         </dt>
@@ -85,10 +85,14 @@ FCoinにはFTロックアップによる毎日の配当以外にも多くのお�
                 未約定注文マイニング
             </a>
         </dt>
-        <dd>取引に注文を指値しておくことでFTを毎日配布</dd>
-        <dd>現在価格からみて価格差5%以内ならポイントアップ</dd>
+        <dd>
+            取引に注文を指値しておくことでFTを毎日配布
+        </dd>
+        <dd>
+            現在価格からみて価格差5%以内ならポイントアップ
+        </dd>
         <dt>
-            <a href="./about-mining.html" target="_brank">
+            <a href="./about-mining.html#直近板並べマイニング-sorting-minig" target="_brank">
                 直近板並べマイニング
             </a>
         </dt>
@@ -105,7 +109,7 @@ FCoinにはFTロックアップによる毎日の配当以外にも多くのお�
             最大５倍のレバレッジを効かせた取引が可能
         </dd>
         <dt>
-            <a href="./about-mining.html" target="_brank">
+            <a href="./about-mining.html#レバレッジマイニング-lending-as-mining-leverage-mining" target="_brank">
                 レバレッジマイニング
             </a>*1
         </dt>
@@ -125,7 +129,9 @@ FCoinにはFTロックアップによる毎日の配当以外にも多くのお�
             FCoinプラットフォーム収益の16%*2がロックアップされているFTに対し毎日均等に配分される
         </dd>
         <dt>
-            FTロックアップマイニング
+            <a href="./about-mining.html#ftロックアップマイニング-lockup-mining" target="_brank">
+                FTロックアップマイニング
+            </a>
         </dt>
         <dd>
             FTをロックアップしておくと毎日の配当とは別にFTが配布される
