@@ -22,7 +22,7 @@ FCoinはサービスごとに口座がわかれています。
 
   
 ### マイウォレット（My wallet）
-各取引所やウォレットへの送金のほか、FCoinの各口座への送金元となります。
+各取引所やウォレットへの送金のほか、FCoinの各口座への振替元となります。
 
 <div style="text-align: right;">
     <a href="https://exchange.fcoin.com/finance/assets" target="_brank">FCoinのマイウォレットへ</a>  
