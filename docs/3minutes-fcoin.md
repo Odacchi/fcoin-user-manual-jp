@@ -103,7 +103,7 @@ FCoinにはFTロックアップによる毎日の配当以外にも多くのお�
     </dl>
 
 - ### 全員参加可能  
-.
+
     <dl>
         <dt>
             <a href="./about-mining.html#取引マイニング-trade-mining-trading-as-mining" target="_brank">
