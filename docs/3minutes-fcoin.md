@@ -171,7 +171,7 @@ FCoinにはFTロックアップによる毎日の配当以外にも多くのお�
         <dt>
             <a href="./about-mining.html#レバレッジマイニング-lending-as-mining-leverage-mining" target="_brank">
                 レバレッジマイニング
-            </a>*1
+            </a>
         </dt>
         <dd>
             レバレッジ取引利用時のローンの利息に応じてFTが配布される
