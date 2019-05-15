@@ -49,7 +49,7 @@ FCoinはサービスごとに口座がわかれています。
     - 5倍まで  
         BTC, ETH, XRP, LTC, BCH, EOS, ETC
     - 3倍まで  
-        ADA, ZEC, DASH, XLM
+        ADA, ZEC, DASH, XLM  
   
 - <a href="https://exchange.fcoin.com/finance/margin" target="_brank">FCoinのマージン口座へ</a>  
       
