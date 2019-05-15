@@ -4,6 +4,7 @@
 
 詳細な説明よりも、FCoinのサービス全体を把握したい人向けのページ。
 
+---
 
 ## 目的別早見表
 
@@ -19,50 +20,51 @@ FCoinはサービスごとに口座がわかれています。
 | レバレッジ取引したい | [マージン口座](マージン口座（margin-account）) （Margin Account）|
 | 配当ほしい | [ロック口座](ロック口座（lock-account）)（Lock Account） |
 
-<br>
   
-- ### マイウォレット（My wallet）
-    各取引所やウォレットへの送金のほか、FCoinの各口座への送金元となります。
-    
-    - <a href="https://exchange.fcoin.com/finance/assets" target="_brank">FCoinのマイウォレットへ</a>  
+### マイウォレット（My wallet）
+各取引所やウォレットへの送金のほか、FCoinの各口座への送金元となります。
+
+- <a href="https://exchange.fcoin.com/finance/assets" target="_brank">FCoinのマイウォレットへ</a>  
       
     
-- ### 取引口座（Trading account）
-    現物取引をすることができます。メジャー通貨のメインボードと、草取引用のFOneというブランドに分かれています。
-    
-    - <a href="https://exchange.fcoin.com/finance/exchange" target="_brank">FCoinの取引口座へ</a>  
+### 取引口座（Trading account）
+現物取引をすることができます。メジャー通貨のメインボードと、草取引用のFOneというブランドに分かれています。
+
+- <a href="https://exchange.fcoin.com/finance/exchange" target="_brank">FCoinの取引口座へ</a>  
       
     
-- ### 理財口座（Financial account）
-    預金することで当該通貨を利息で増やすことができます。
-        
-    - 対応通貨：  
-        BTC, ETH, XRP, LTC, BCH, EOS, ETC, ADA, ZEC, DASH, XLM, USDT
-        
-    - <a href="https://exchange.fcoin.com/finance/financial" target="_brank">FCoinの理財口座へ</a>  
+### 理財口座（Financial account）
+預金することで当該通貨を利息で増やすことができます。
+    
+- 対応通貨：  
+    BTC, ETH, XRP, LTC, BCH, EOS, ETC, ADA, ZEC, DASH, XLM, USDT
+    
+- <a href="https://exchange.fcoin.com/finance/financial" target="_brank">FCoinの理財口座へ</a>  
       
     
-- ### マージン口座（Margin account）
-    レバレッジをかけた取引ができます。レバレッジ分はローンとなるので利子が発生します。
-    
-    - 対応通貨（全てUSDTペア）：
-        - 5倍まで  
-            BTC, ETH, XRP, LTC, BCH, EOS, ETC
-        - 3倍まで  
-            ADA, ZEC, DASH, XLM
-      
-    - <a href="https://exchange.fcoin.com/finance/margin" target="_brank">FCoinのマージン口座へ</a>  
+### マージン口座（Margin account）
+レバレッジをかけた取引ができます。レバレッジ分はローンとなるので利子が発生します。
+
+- 対応通貨（全てUSDTペア）：
+    - 5倍まで  
+        BTC, ETH, XRP, LTC, BCH, EOS, ETC
+    - 3倍まで  
+        ADA, ZEC, DASH, XLM
+  
+- <a href="https://exchange.fcoin.com/finance/margin" target="_brank">FCoinのマージン口座へ</a>  
       
   
-- ### ロック口座（Lock account）
-    FTをロックアップすることで、受け取ることができます。毎日の配当総額はプラットフォーム収益の16%*です。  
-    *毎日の配当総額は合計で80%ですが、残りの64%分は通年でプールされ、ロックアップしていなくても毎年1/1に一斉分配されます。
-    
-    - 対応通貨  
-        FTのみ
-    
-    - <a href="https://exchange.fcoin.com/finance/lock" target="_brank">FCoinのロック口座へ</a>  
+### ロック口座（Lock account）
+FTをロックアップすることで、受け取ることができます。毎日の配当総額はプラットフォーム収益の16%*です。  
+*毎日の配当総額は合計で80%ですが、残りの64%分は通年でプールされ、ロックアップしていなくても毎年1/1に一斉分配されます。
+
+- 対応通貨  
+    FTのみ
+
+- <a href="https://exchange.fcoin.com/finance/lock" target="_brank">FCoinのロック口座へ</a>  
       
+
+---
 
 ## 各種サービスの利用条件
 
