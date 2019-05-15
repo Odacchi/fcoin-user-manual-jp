@@ -27,7 +27,7 @@ FCoinはサービスごとに口座がわかれています。
     - <a href="https://exchange.fcoin.com/finance/assets" target="_brank">FCoinのマイウォレットへ</a>
     
 - ### 取引口座（Trading account）
-    現物取引をすることができる。メジャー通貨のメインボードと、草取引用のFOneというブランドに分かれている
+    現物取引をすることができます。メジャー通貨のメインボードと、草取引用のFOneというブランドに分かれています。
     
     - <a href="https://exchange.fcoin.com/finance/exchange" target="_brank">FCoinの取引口座へ</a>
     
@@ -40,7 +40,7 @@ FCoinはサービスごとに口座がわかれています。
     - <a href="https://exchange.fcoin.com/finance/financial" target="_brank">FCoinの理財口座へ</a>
     
 - ### マージン口座（Margin account）
-    レバレッジをかけた取引ができる。レバレッジ分はローンとなるので利子が発生します。
+    レバレッジをかけた取引ができます。レバレッジ分はローンとなるので利子が発生します。
     
     - 対応通貨（全てUSDTペア）：
         - 5倍まで  
