@@ -14,11 +14,11 @@ FCoinはサービスごとに口座がわかれています。
 
 | 目的        | 利用口座          | 
 |:-------------|:------------------|
-| どこかに送金したい | [マイウォレット](#マイウォレット（my-wallet）)（My Wallet） | 
-| 現物取引したい | [取引口座](#取引口座（trading-account）)（Trading Account） | 
-| 預金したい、利息ほしい | [理財口座](理財口座（financial-account）)（Financial Account） | 
-| レバレッジ取引したい | [マージン口座](マージン口座（margin-account）) （Margin Account）|
-| 配当ほしい | [ロック口座](ロック口座（lock-account）)（Lock Account） |
+| どこかに送金したい | [マイウォレット](#マイウォレットmy-wallet)（My Wallet） | 
+| 現物取引したい | [取引口座](#取引口座trading-account)（Trading Account） | 
+| 預金したい、利息ほしい | [理財口座](#理財口座financial-account)（Financial Account） | 
+| レバレッジ取引したい | [マージン口座](#マージン口座margin-account) （Margin Account）|
+| 配当ほしい | [ロック口座](#ロック口座lock-account)（Lock Account） |
 
   
 ### マイウォレット（My wallet）
