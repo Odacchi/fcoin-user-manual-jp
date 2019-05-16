@@ -18,7 +18,7 @@ description: マイニングについて詳細を知りたい人向けのペー�
     - [投票マイニング (Mining currencies voting)](#投票マイニング-mining-currencies-voting)
     - [PRマイニング (Promotion mining, PR mining)](#prマイニング-promotion-mining-pr-mining)
 - [半減期について](#半減期について)
-- [マイニングで配られるFTはどこから来るのか](#マイニングで配られるFTはどこから来るのか)
+- [マイニングで配られるFTはどこから来るのか](#マイニングで配られるftはどこから来るのか)
 
 
 # マイニングとは

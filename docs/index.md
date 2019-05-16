@@ -44,7 +44,7 @@ FCoin取引所の取引所トークンです。
 | 総発行枚数           | `4,904,165,442.45 FT` <br>※2019/5/17時点*      |
 | ホワイトペーパー           | <a href="https://fractalproject.com/assets/pdf/fractal-whitepaper-en.pdf" target="_brank">ホワイトペーパー</a><br><a href="https://fractalproject.com/assets/pdf/fractal-technical-whitepaper-en.pdf" target="_brank">テクニカルホワイトペーパー</a> |
 
-*[マイニングマイニング詳解](./about-mining.md#マイニングで配られるFTはどこから来るのか)で説明していますが、
+*[マイニングマイニング詳解](./about-mining.md#マイニングで配られるftはどこから来るのか)で説明していますが、
 毎週金曜日に配当の一部を使ってFTの買い戻しバーンを行っているため、総発行枚数は緩やかに減少していくデフレ通貨です。
 
 ## FTを保有することによるメリット
