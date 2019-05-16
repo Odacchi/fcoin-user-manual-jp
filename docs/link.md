@@ -1,8 +1,11 @@
+---
+title: リンク集
+description: 関連リンクを掲載するページ
+---
+
 [トップページへ](./)
 
-# リンク集
-
-## FCoin
+# FCoin
 
 - FCoin公式
     - [FCoin公式サイト](https://www.fcoin.com)
@@ -25,7 +28,7 @@
         - [Telegram](https://t.me/ftokentokyo)
         
 
-## FCoinJP
+# FCoinJP
 
 - FCoinJP
     - [FCoinJP公式サイト](https://www.fcoinjp.com)
