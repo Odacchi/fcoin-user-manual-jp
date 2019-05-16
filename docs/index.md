@@ -37,6 +37,15 @@ FTホルダーのFTホルダーによるFTホルダーのための日本語ト�
 FCoin取引所の取引所トークンです。  
 今後6月のアップデートで独自チェーン（Fractalチェーン）に移行する予定です。
 
+| 項目         | 説明          |
+|:-------------|:------------------|
+| 通貨名          | FToken |
+| 通貨略号/ティッカー | FT   |
+| 総発行枚数           | `4,904,165,442.45 FT` <br>※2019/5/17時点*      |
+| ホワイトペーパー           | <ul><li><a href="https://fractalproject.com/assets/pdf/fractal-whitepaper-en.pdf" target="_brank">ホワイトペーパー</a></li><li><a href="https://fractalproject.com/assets/pdf/fractal-technical-whitepaper-en.pdf" target="_brank">テクニカルホワイトペーパー</a></li></ul> |
+*[マイニングマイニング詳解](./about-mining.md#マイニングで配られるFTはどこから来るのか)で説明していますが、
+毎週金曜日に配当の一部を使ってFTの買い戻しバーンを行っているため、総発行枚数は緩やかに減少していくデフレ通貨です。
+
 ## FTを保有することによるメリット
 
 - ロックアップすることで毎日配当がもらえる
