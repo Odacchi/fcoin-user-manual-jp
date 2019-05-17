@@ -3,8 +3,10 @@ title: FCoinトリセツ。
 description: オープンソースのFCoin取扱説明書
 ---
 
-FTホルダーのFTホルダーによるFTホルダーのためのFCoin日本語トリセツです。  
-_本トリセツはMITライセンスによるオープンソースソフトウェアです。_
+FTホルダーのFTホルダーによるFTホルダーのためのFCoin日本語トリセツ*です。  
+<div style="text-align: right;">
+    <small>*本トリセツはMITライセンスによるオープンソースソフトウェアです。</small>
+</div> 
 
 ## メニュー
 
