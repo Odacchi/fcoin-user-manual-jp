@@ -20,12 +20,20 @@ description: 関連リンクを掲載するページ
     - Online Pro Exchange
         - [トップページ](https://www.fcoin.com/category/onlineproexchange)
         - [Telegram](https://t.me/OnlinePro_Exchange)
-    - FCJ
-        - [トップページ](https://www.fcoin.com/category/japancommunity)
         
 - FTokenノード日本コミュニティ
     - FTokenTokyo
         - [Telegram](https://t.me/ftokentokyo)
+        
+## FCoin関連ブログ、記事等
+
+こちらに掲載する`FCoinもしくはFTに関するWebページのリンク`を募集しております。  
+FCoinトリセツへの掲載条件は3つです。
+- FCoin、もしくはFTに関するページであること
+- FCoinトリセツへのリンクを掲載していただくこと
+- FCoinトリセツへの掲載が不適切と判断されるような内容（公序良俗に反する言葉や画像など）を含まないこと
+
+問い合わせは[コチラ](https://twitter.com/lucied2007)（Twitter）までお願いします。
         
 
 # FCoinJP
@@ -33,3 +41,4 @@ description: 関連リンクを掲載するページ
 - FCoinJP
     - [FCoinJP公式サイト](https://www.fcoinjp.com)
     - [FCoinJP公式Twitter](https://twitter.com/fcoin_jp)
+    - [FCoinJP公認ブログ](https://fcoin-fan.jp/)
