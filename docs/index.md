@@ -38,6 +38,14 @@ FTホルダーのFTホルダーによるFTホルダーのためのFCoin日本語
     <a href="https://www.fcoin.com" target="_brank">FCoin公式サイトへ（日本語未対応）</a>  
 </div>  
 
+## 手数料体系
+
+maker側がマイナス手数料で、taker側が手数料を払います。  
+差し引きで残った分が、プラットフォームの収益となります。
+![FCoinの取引手数料体系](./images/trading-fees.JPG)
+  
+FCoin公式の手数料表は[コチラ](https://fcoin.zendesk.com/hc/en-us/articles/360003715514)
+
 ## FCoinの収支データ
 FCoinは収益性に関する多くの重要情報をFCoin公式サイトのトップページに公開しています。    
 以下にトップページの当該箇所についての日本語翻訳付き画像を掲載します。
