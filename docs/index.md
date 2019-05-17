@@ -38,11 +38,13 @@ FTホルダーのFTホルダーによるFTホルダーのためのFCoin日本語
     <a href="https://www.fcoin.com" target="_brank">FCoin公式サイトへ（日本語未対応）</a>  
 </div>  
 
-## FCoinトップページの見方
+## FCoinの収支データ
 FCoinは収益性に関する多くの重要情報をFCoin公式サイトのトップページに公開しています。    
-以下にトップページの日本語翻訳画像を掲載します。
+以下にトップページの当該箇所についての日本語翻訳付き画像を掲載します。
 
 ![FCoin公式サイトトップページに掲載される収益データ](images/fcoin-top-page-details.png)
+
+また、毎日の総配当は<a href="https://fcoin.zendesk.com/hc/en-us/sections/360001156334-Income-distribution-details" target="_brank">コチラ</a>にアップされます。  
 
 
 # FTとは
