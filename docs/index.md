@@ -42,7 +42,7 @@ FTホルダーのFTホルダーによるFTホルダーのためのFCoin日本語
 FCoinは収益性に関する多くの重要情報をFCoin公式サイトのトップページに公開しています。    
 以下にトップページの日本語翻訳画像を掲載します。
 
-![FCoin公式サイトトップページに掲載される収益データ](./images/fcoin-top-page-info.png)
+![FCoin公式サイトトップページに掲載される収益データ](images/fcoin-top-page-details.png)
 
 
 # FTとは
