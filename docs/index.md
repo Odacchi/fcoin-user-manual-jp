@@ -34,6 +34,17 @@ FTホルダーのFTホルダーによるFTホルダーのためのFCoin日本語
 
 *Wikipedia的な説明は[Wikipedia本家](https://ja.wikipedia.org/wiki/FCoin)を参照
 
+<div style="text-align: right;">
+    <a href="https://www.fcoin.com" target="_brank">FCoin公式サイトへ（日本語未対応）</a>  
+</div>  
+
+## FCoinトップページの見方
+FCoinは収益性に関する多くの重要情報をFCoin公式サイトのトップページに公開しています。    
+以下にトップページの日本語翻訳画像を掲載します。
+
+![FCoin公式サイトトップページに掲載される収益データ](./images/fcoin-top-page-info.png)
+
+
 # FTとは
 
 FCoin取引所の取引所トークンです。  
