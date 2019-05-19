@@ -38,23 +38,6 @@ FTホルダーのFTホルダーによるFTホルダーのためのFCoin日本語
     <a href="https://www.fcoin.com" target="_brank">FCoin公式サイトへ（日本語未対応）</a>  
 </div>  
 
-## 手数料体系
-
-maker側がマイナス手数料で、taker側が手数料を払います。  
-差し引きで残った分が、プラットフォームの収益となります。
-![FCoinの取引手数料体系](./images/trading-fees.JPG)
-  
-FCoin公式の手数料表は[コチラ](https://fcoin.zendesk.com/hc/en-us/articles/360003715514)
-
-## FCoinの収支データ
-FCoinは収益性に関する多くの重要情報をFCoin公式サイトのトップページに公開しています。    
-以下にトップページの当該箇所についての日本語翻訳付き画像を掲載します。
-
-![FCoin公式サイトトップページに掲載される収益データ](images/fcoin-top-page-details.png)
-
-また、毎日の総配当は<a href="https://fcoin.zendesk.com/hc/en-us/sections/360001156334-Income-distribution-details" target="_brank">コチラ</a>にアップされます。  
-
-
 # FTとは
 
 FCoin取引所の取引所トークンです。  
@@ -94,10 +77,29 @@ FCoin取引所の取引所トークンです。
 それらへも当然配当があるため、この部分も収益となります。  
 
 
+#FCoinをもっと知る
+
+## 手数料体系
+
+maker側がマイナス手数料で、taker側が手数料を払います。  
+差し引きで残った分が、プラットフォームの収益となります。
+![FCoinの取引手数料体系](./images/trading-fees.JPG)
+  
+FCoin公式の手数料表は[コチラ](https://fcoin.zendesk.com/hc/en-us/articles/360003715514)
+
+## FCoinの収支データ
+FCoinは収益性に関する多くの重要情報をFCoin公式サイトのトップページに公開しています。    
+以下にトップページの当該箇所についての日本語翻訳付き画像を掲載します。
+
+![FCoin公式サイトトップページに掲載される収益データ](images/fcoin-top-page-details.png)
+
+また、毎日の総配当は<a href="https://fcoin.zendesk.com/hc/en-us/sections/360001156334-Income-distribution-details" target="_brank">コチラ</a>にアップされます。  
+
 # マイニングについて
 
+取引所で取引することによって、その取引所トークンを得るという  
 取引マイニングの概念を生み出した取引所としても知られるFCoinですが、  
-現在ではFCoinを普段から使うこと自体がマイニングになるような設計となっています。
+現在ではFCoinを普段から使うこと自体がFTのマイニングになるような設計となっています。
 
 - FCoinトリセツのマイニングについての説明ページは[コチラ](./about-mining.md)
 - マイニングについての公式説明ページは[コチラ（日本語未対応）](https://www.fcoin.com/mining) 
