@@ -52,11 +52,7 @@ FCoinでなんらかのサービスを利用する場合、そのサービス用
     `BTC`, `ETH`, `XRP`, `LTC`, `BCH`, `EOS`, `ETC`, `ADA`, `ZEC`, `DASH`, `XLM`, `USDT`
 
 通貨ごとに利率は異なり、7日ごとに利率の見直しがある変動金利制です。  
-最新のに日利は下記から確認できます。  
-
-<div style="text-align: right;">
-    <a href="https://www.fcoin.com/finance" target="_brank">理財の利率情報</a>  
-</div>  
+最新の日利は<a href="https://www.fcoin.com/finance" target="_brank">コチラ</a>（FCoin公式）から確認できます。    
   
 注意点として、各通貨ごとに1日一回までの入出金制限があります。
 この制限は毎朝9時（日本時間）にリセットされます。
