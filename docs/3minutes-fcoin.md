@@ -45,28 +45,52 @@ FCoinでなんらかのサービスを利用する場合、そのサービス用
 </div>  
     
 ## 理財口座（Financial account）
-預金することで当該通貨を利息で増やすことができます。
+預金することで当該通貨を利息で増やすことができます（例：BTCを預けたらBTCが増える）。  
+理財口座に預金された通貨はレバレッジ取引への貸し出しのために使われます。
     
 - 対応通貨：  
-    BTC, ETH, XRP, LTC, BCH, EOS, ETC, ADA, ZEC, DASH, XLM, USDT
-    
+    `BTC`, `ETH`, `XRP`, `LTC`, `BCH`, `EOS`, `ETC`, `ADA`, `ZEC`, `DASH`, `XLM`, `USDT`
+
+通貨ごとに利率は異なり、7日ごとに利率の見直しがある変動金利制です。  
+最新のに日利は下記から確認できます。  
+
+<div style="text-align: right;">
+    <a href="https://www.fcoin.com/finance" target="_brank">理財の利率情報</a>  
+</div>  
+  
+注意点として、各通貨ごとに1日一回までの入出金制限があります。
+この制限は毎朝9時（日本時間）にリセットされます。
+
 <div style="text-align: right;">
     <a href="https://exchange.fcoin.com/finance/financial" target="_brank">FCoinの理財口座へ</a>  
 </div>  
     
 ## マージン口座（Margin account）
-レバレッジをかけた取引ができます。レバレッジ分はローンとなるので利子が発生します。
+レバレッジをかけた取引ができます。レバレッジ分はローンとなるので利子が発生します。  
 
 - 対応通貨（全てUSDTペア）：
     - 5倍まで  
-        BTC, ETH, XRP, LTC, BCH, EOS, ETC
+        `BTC`, `ETH`, `XRP`, `LTC`, `BCH`, `EOS`, `ETC`
     - 3倍まで  
-        ADA, ZEC, DASH, XLM  
+        `ADA`, `ZEC`, `DASH`, `XLM`  
+
+リスクレートが115%以下になると強制決済されるため、マージン口座の資産は0にはなりません。  
+したがって、追証もありません。万が一マイナスになった場合はFCoinプラットフォームの責任となります。
+
+```
+リスクレート = (マージン口座の口座残高 / ローン金額) × 100%
+```
+
+例：  
+1000ドル分の通貨をマージン口座に入金し、2000ドル分の通貨をローンしとすると、マージン口座残高評価額は3000ドルになるので、  
+リスクレートは150%となります。  
+ここから損失を出しマージン口座の残高評価額が2300ドル（リスクレートが115%）まで下がった場合、
+2000ドル+ローン利息が強制決済されて300ドル弱が手元に残る計算になります。
 
 <div style="text-align: right;">
     <a href="https://exchange.fcoin.com/finance/margin" target="_brank">FCoinのマージン口座へ</a>  
 </div>  
-  
+
 ## ロック口座（Lock account）
 FTをロックアップすることで、毎日配当を受け取ることができます。毎日の配当総額はプラットフォーム収益の16%*です。  
 
