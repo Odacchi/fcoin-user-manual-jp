@@ -83,7 +83,7 @@ FCoin取引所の取引所トークンです。
 
 maker側がマイナス手数料で、taker側が手数料を払います。  
 差し引きで残った分が、プラットフォームの収益となります。
-![FCoinの取引手数料体系](./images/trading-fees.JPG)
+![FCoinの取引手数料体系](./images/trading-fees.jpg)
   
 FCoin公式の手数料表は[コチラ](https://fcoin.zendesk.com/hc/en-us/articles/360003715514)
 
