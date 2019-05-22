@@ -11,7 +11,7 @@ description: マイニングについて詳細を知りたい人向けのペー�
 - [マイニングの種類](#マイニングの種類)
     - [取引マイニング (Trade mining, Trading as mining)](#取引マイニング-trade-mining-trading-as-mining)
     - [未約定注文マイニング (Limit-order mining)](#未約定注文マイニング-limit-order-mining)
-    - [直近板並べマイニング (Sorting minig)](#直近板並べマイニング-sorting-mining)
+    - [直近板並べマイニング (Sorting mining)](#直近板並べマイニング-sorting-mining)
     - [レバレッジマイニング (Lending as mining, Leverage mining)](#レバレッジマイニング-lending-as-mining-leverage-mining)
     - [理財マイニング (Financial mining)](#理財マイニング-financial-mining)
     - [FTロックアップマイニング (Lockup mining)](#ftロックアップマイニング-lockup-mining)
@@ -43,7 +43,7 @@ FTの売買や入出金はできませんが、配当や投票権などFTの基�
 
 - [取引マイニング (Trade mining, Trading as mining)](#取引マイニング-trade-mining-trading-as-mining)
 - [未約定注文マイニング (Limit-order mining)](#未約定注文マイニング-limit-order-mining)
-- [直近板並べマイニング (Sorting minig)](#直近板並べマイニング-sorting-mining)
+- [直近板並べマイニング (Sorting mining)](#直近板並べマイニング-sorting-mining)
 - [レバレッジマイニング (Lending as mining, Leverage mining)](#レバレッジマイニング-lending-as-mining-leverage-mining)
 - [理財マイニング (Financial mining)](#理財マイニング-financial-mining)
 - [FTロックアップマイニング (Lockup mining)](#ftロックアップマイニング-lockup-mining)
