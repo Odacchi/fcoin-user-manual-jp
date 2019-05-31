@@ -14,7 +14,6 @@ FTホルダーのFTホルダーによるFTホルダーのためのFCoinトリセ
 - [マイニング詳解](./about-mining.md)
 - [よくある質問](./faq.html)
 - [リンク集](./link.html)
-- 【準備中】 FCoin頻出英語集
 
 ---
 
