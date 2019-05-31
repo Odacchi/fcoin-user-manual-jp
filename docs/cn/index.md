@@ -45,7 +45,7 @@ FCoin交易所的平台币。
 | 总发行量           | `4,904,165,442.45 FT` <br>*截至2019/5/17点*      |
 | 白皮书           | <a href="https://fractalproject.com/assets/pdf/fractal-whitepaper-en.pdf" target="_brank">项目白皮书</a><br><a href="https://fractalproject.com/assets/pdf/fractal-technical-whitepaper-en.pdf" target="_brank">技术白皮书</a> |
 
-*[挖矿详解](./about-mining.md#マイニングで配られるftはどこから来るのか)也有所提及，  
+*[挖矿详解](./about-mining.html#マイニングで配られるftはどこから来るのか)也有所提及，  
 FCoin Fund每周五会将本周分红用于回购销毁，
 由于FCoin Fund的存在，FT是一种总发行量在逐渐减少的通缩型数字资产。
 

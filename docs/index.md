@@ -11,7 +11,7 @@ FTホルダーのFTホルダーによるFTホルダーのためのFCoinトリセ
 ## メニュー
 
 - [3分でFCoinのサービスを理解するページ](./3minutes-fcoin.html)
-- [マイニング詳解](./about-mining.md)
+- [マイニング詳解](./about-mining.html)
 - [よくある質問](./faq.html)
 - [リンク集](./link.html)
 
@@ -49,7 +49,7 @@ FCoin取引所の取引所トークンです。
 | 総発行枚数           | `4,904,165,442.45 FT` <br>※2019/5/17時点*      |
 | ホワイトペーパー           | <a href="https://fractalproject.com/assets/pdf/fractal-whitepaper-en.pdf" target="_brank">ホワイトペーパー</a><br><a href="https://fractalproject.com/assets/pdf/fractal-technical-whitepaper-en.pdf" target="_brank">テクニカルホワイトペーパー</a> |
 
-*[マイニング詳解](./about-mining.md#マイニングで配られるftはどこから来るのか)でも触れていますが、
+*[マイニング詳解](./about-mining.html#マイニングで配られるftはどこから来るのか)でも触れていますが、
 毎週金曜日に配当の一部を使ってFTの買い戻しバーンを行うFCoinファンドという仕組みがあるため、総発行枚数は緩やかに減少していくデフレ通貨です。
 
 ## FTを保有することによるメリット
@@ -100,7 +100,7 @@ FCoinは収益性に関する多くの重要情報をFCoin公式サイトのト�
 取引マイニングの概念を生み出した取引所としても知られるFCoinですが、  
 現在ではFCoinを普段から使うこと自体がFTのマイニングになるような設計となっています。
 
-- FCoinトリセツのマイニングについての説明ページは[コチラ](./about-mining.md)
+- FCoinトリセツのマイニングについての説明ページは[コチラ](./about-mining.html)
 - マイニングについての公式説明ページは[コチラ（日本語未対応）](https://www.fcoin.com/mining) 
 
 以下、上記のFCoin公式説明ページの日本語翻訳を画像で掲載します*。  
