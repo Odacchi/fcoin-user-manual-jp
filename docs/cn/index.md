@@ -62,7 +62,7 @@ FCoin Fund每周五会将本周分红用于回购销毁，
 其中20%用于支持平台基本开支，80%将分配给FT持有者。  
 每日平台收益的使用途径如下图所示。  
 
-![収益分配比率](./images/revenue-share-ratio.png)
+![收入分成比率](./images/revenue-share-ratio.png)
 
 补充说明:  
 由图可见，维系平台运营的费用仅占据20%，由此，常被问及以这样极少的费用维系平台运转是否很困难？  
@@ -81,9 +81,8 @@ FCoin官方的手续费表请前往[这里](https://fcoin.zendesk.com/hc/zh-cn/a
 
 ## FCoin的收支数据
 FCoin在FCoin官网首页公开展示与收益性相关的重要信息。 
-下面刊载了首页各处信息的日语译版图片。
 
-![FCoin公式サイトトップページに掲載される収益データ](images/fcoin-top-page-details.png)
+![收入数据发布在FCoin官方网站的首页](images/fcoin-top-page-details.png)
 
 此外，每日分红会被上传至<a href="https://fcoin.zendesk.com/hc/zh-cn/sections/360001156334-Income-distribution-details" target="_brank">这里</a>。  
 
