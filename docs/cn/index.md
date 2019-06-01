@@ -10,7 +10,7 @@ FT持有者所有、来自FT持有者、为了FT持有者的FCoin说明书*。
 
 ## 菜单
 
-- [【日本語】3分钟理解FCoin所提供的服务页面](./3minutes-fcoin.html)
+- [3分钟理解FCoin所提供的服务页面](./3minutes-fcoin.html)
 - [【日本語】挖矿详解](./about-mining.html)
 - [【日本語】常见问题](./faq.html)
 - [【日本語】链接合集](./link.html)
