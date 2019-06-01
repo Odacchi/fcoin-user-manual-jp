@@ -174,7 +174,7 @@ FCoinにはFTロックアップによる毎日の配当以外にも多くのお�
             現在価格との指値注文との価格差（%）によって評価が変わり、現在価格に近いほど効率が良い
         </dd>
         <dt>
-            <a href="./about-mining.html#直近板並べマイニング-sorting-minig" target="_brank">
+            <a href="./about-mining.html#直近板並べマイニング-sorting-mining" target="_brank">
                 直近板並べマイニング
             </a>
         </dt>

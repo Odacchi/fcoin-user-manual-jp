@@ -174,7 +174,7 @@ description: 这是为了想要整体掌握FCoin所提供的服务的人而建�
             根据最新价格与挂单价格的价差（%），评价会变化，靠近最新价格的订单效率较高
         </dd>
         <dt>
-            <a href="./about-mining.html#排序挖矿-sorting-minig" target="_brank">
+            <a href="./about-mining.html#排序挖矿-sorting-mining" target="_brank">
                 排序挖矿
             </a>
         </dt>
