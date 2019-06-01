@@ -211,7 +211,7 @@ description: 这是为了想要整体掌握FCoin所提供的服务的人而建�
             FCoin平台收益的16%*2将会均分给每日锁仓的FT
         </dd>
         <dt>
-            <a href="./about-mining.html#FT锁仓挖矿-lockup-mining" target="_brank">
+            <a href="./about-mining.html#ft锁仓挖矿-lockup-mining" target="_brank">
                 FT锁仓挖矿
             </a>
         </dt>
