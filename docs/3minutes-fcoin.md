@@ -163,7 +163,7 @@ FCoinにはFTロックアップによる毎日の配当以外にも多くのお�
             KYC済みで、1日50回まで（キャンセルも含む、毎日深夜1時にリセット）の注文で抑えた方が最も効率が良い*1
         </dd>
         <dt>
-            <a href="./about-mining.html#未約定注文マイニング-limit-order-mining" target="_brank">
+            <a href="./about-mining.html#未約定注文マイニング-limit-order-mining-place-order-mining" target="_brank">
                 未約定注文マイニング
             </a>
         </dt>

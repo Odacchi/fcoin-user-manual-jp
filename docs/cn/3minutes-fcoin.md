@@ -163,7 +163,7 @@ description: 这是为了想要整体掌握FCoin所提供的服务的人而建�
         完成KYC，且单日下单书小于等于50次（取消的订单也会计算在内，每日00:00重制）可以获得最高的效率*1
         </dd>
         <dt>
-            <a href="./about-mining.html#挂单挖矿-limit-order-mining" target="_brank">
+            <a href="./about-mining.html#挂单挖矿-limit-order-mining-place-order-mining" target="_brank">
                 挂单挖矿
             </a>
         </dt>
