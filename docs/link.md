@@ -26,13 +26,11 @@ description: 関連リンクを掲載するページ
     - FTokenTokyo
         - [Telegram](https://t.me/ftokentokyo)
         
-## FCoin関連ブログ、記事等
-
-- ブログ
-    - [FCoin LIFE](https://coin-overallnews.com)
-- 記事
-
----        
+    ## FCoin関連ブログ、記事等
+    
+    - ブログ
+        - [FCoin LIFE](https://coin-overallnews.com)
+    - 記事
 
 # FCoinJP
 FCoin日本コミュニティ向けに特化した取引プラットフォーム
@@ -43,8 +41,6 @@ FCoin日本コミュニティ向けに特化した取引プラットフォーム
     - [FCoinJP公式Telegram](https://t.me/FCoinJPofficial)
     - [FCoinJP公認ブログ](https://fcoin-fan.jp/)
    
----
- 
 # FMex
 9月サービス開始予定のFCoinチームによる先物取引プラットフォーム
 
@@ -53,9 +49,7 @@ FCoin日本コミュニティ向けに特化した取引プラットフォーム
     
     
 
----
-
-### FCoinトリセツからのお知らせ
+# FCoinトリセツからのお知らせ
 
 こちらのページに掲載する`FCoinもしくはFTに関するWebページのリンク`を募集しております。  
 FCoinトリセツへの掲載条件は3つです。
