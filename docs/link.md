@@ -36,7 +36,8 @@ FCoinトリセツへの掲載条件は3つです。
 
 上記に違反された場合は、FCoinトリセツからのリンクを削除する場合があります。  
 問い合わせは[コチラ](https://twitter.com/lucied2007)（Twitter）までお願いします。
-        
+
+---        
 
 # FCoinJP
 FCoin日本コミュニティ向けに特化した取引プラットフォーム
@@ -46,7 +47,9 @@ FCoin日本コミュニティ向けに特化した取引プラットフォーム
     - [FCoinJP公式Twitter](https://twitter.com/fcoin_jp)
     - [FCoinJP公式Telegram](https://t.me/FCoinJPofficial)
     - [FCoinJP公認ブログ](https://fcoin-fan.jp/)
-    
+   
+---
+ 
 # FMex
 9月サービス開始予定のFCoinチームによる先物取引プラットフォーム
 
