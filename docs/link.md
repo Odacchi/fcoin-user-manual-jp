@@ -26,11 +26,11 @@ description: 関連リンクを掲載するページ
     - FTokenTokyo
         - [Telegram](https://t.me/ftokentokyo)
         
-    ## FCoin関連ブログ、記事等
+### FCoin関連ブログ、記事等
     
-    - ブログ
-        - [FCoin LIFE](https://coin-overallnews.com)
-    - 記事
+- ブログ
+    - [FCoin LIFE](https://coin-overallnews.com)
+- 記事
 
 # FCoinJP
 FCoin日本コミュニティ向けに特化した取引プラットフォーム
