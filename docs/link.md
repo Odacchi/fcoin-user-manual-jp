@@ -6,6 +6,7 @@ description: 関連リンクを掲載するページ
 [トップページへ](./)
 
 # FCoin
+コミュニティベースの取引プラットフォーム
 
 - FCoin公式
     - [FCoin公式サイト](https://www.fcoin.com)
@@ -38,8 +39,16 @@ FCoinトリセツへの掲載条件は3つです。
         
 
 # FCoinJP
+FCoin日本コミュニティ向けに特化した取引プラットフォーム
 
 - FCoinJP
     - [FCoinJP公式サイト](https://www.fcoinjp.com)
     - [FCoinJP公式Twitter](https://twitter.com/fcoin_jp)
+    - [FCoinJP公式Telegram](https://t.me/FCoinJPofficial)
     - [FCoinJP公認ブログ](https://fcoin-fan.jp/)
+    
+# FMex
+9月サービス開始予定のFCoinチームによる先物取引プラットフォーム
+
+- FMex
+    - [FMex公式サイト](https://www.fmex.com/)
