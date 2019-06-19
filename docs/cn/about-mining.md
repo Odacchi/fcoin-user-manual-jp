@@ -77,7 +77,7 @@ FT的挖矿与之思路相同，是指通过在FCoin平台付出劳动力，成�
 在这种情况下，如果都提高下单金额的话，相比短时间内全部操作，最好是在24小时内比较稳定的去下单，从而获得更高的效率。
 如果是机器人挖矿的话，最好在时间跨度上设定好。
 
-![交易挖矿流程图](./images/mining/trade-mining-flow-chart.jpg "交易挖矿流程图")
+![交易挖矿流程图](./images/mining/trade-mining-flow-chart.png "交易挖矿流程图")  
 *由FCoin KOU 提供
 
 ### 挖矿对应币种
@@ -187,7 +187,7 @@ FCoin电报公告频道的note版本里有详细的解说。
 根据在理财存入资产所获的的利息，每周二发放FT挖矿奖励。  
 理财挖矿每周的产出既定，根据自己所获得的利息占利息总额的比例，分配FT 。
 
-![理财挖矿的流程图](./images/mining/financial-mining-flow-chart.JPG)
+![理财挖矿的流程图](./images/mining/financial-mining-flow-chart.png)  
 *FCoin Kou提供
 
 每日理财挖矿产出的是固定的。会定期进行调整。
