@@ -209,7 +209,7 @@ FCoin电报公告频道的note版本里有详细的解说。
 锁仓类型不同，挖矿效率不同，定期锁仓时间越久，挖矿的效率也会随之增加。
 具体而言，同普通的分红锁仓相比，可以获得下图所计算出的数倍的FT。
 
-![锁仓挖矿系数的计算方法](./images/mining/lockup-mining-chart.jpg "锁仓挖矿系数的计算方法")
+![锁仓挖矿系数的计算方法](./images/mining/lockup-mining-chart.jpg "锁仓挖矿系数的计算方法")  
 *图片提供：<a href="https://note.mu/ilovebanana/n/n1789f51e1a4d" target="_brank">图解FCoin锁仓挖矿的算法升级 | note | 香蕉先生</a>
 
 每天锁仓挖矿所产出的FT的总量也是固定的，会定期进行调整。
