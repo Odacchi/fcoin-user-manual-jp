@@ -39,8 +39,8 @@ FTホルダーのFTホルダーによるFTホルダーのためのFCoinトリセ
 
 # FTとは
 
-FCoin取引所の取引所トークンです。  
-6/16のアップデートで独自チェーン（Fractalチェーン）に移行する予定です。
+FCoin取引所の取引所トークンでしたが、独自チェーンのFractal（フラクタル）チェーンのリリースにより、
+パブリックチェーントークンにアップデートされました。
 
 | 項目         | 説明          |
 |:-------------|:------------------|
@@ -48,6 +48,7 @@ FCoin取引所の取引所トークンです。
 | 通貨略号/ティッカー | FT   |
 | 総発行枚数           | `4,904,165,442.45 FT` <br>※2019/5/17時点*      |
 | ホワイトペーパー           | <a href="https://fractalproject.com/assets/pdf/fractal-whitepaper-en.pdf" target="_brank">ホワイトペーパー</a><br><a href="https://fractalproject.com/assets/pdf/fractal-technical-whitepaper-en.pdf" target="_brank">テクニカルホワイトペーパー</a> |
+| エクスプローラー | <a href="https://m.ft.im/" target="_brank">https://m.ft.im/</a> |
 
 *[マイニング詳解](./about-mining.html#マイニングで配られるftはどこから来るのか)でも触れていますが、
 毎週金曜日に配当の一部を使ってFTの買い戻しバーンを行うFCoinファンドという仕組みがあるため、総発行枚数は緩やかに減少していくデフレ通貨です。

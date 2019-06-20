@@ -33,8 +33,8 @@ FCoin是来自中国的数字货币交易所。是原HoubiCTO张健创设的、
 
 # FT是什么？
 
-FCoin交易所的平台币。  
-计划通过今年6月16日的升级，切换到自己的公链（Fractal公链）。  
+FCoin取引所の取引所トークンでしたが、独自チェーンのFractal（フラクタル）チェーンのリリースにより、
+パブリックチェーントークンにアップデートされました。
 
 | 项目         | 说明          |
 |:-------------|:------------------|
@@ -42,6 +42,7 @@ FCoin交易所的平台币。
 | 币种代称 | FT   |
 | 总发行量           | `4,904,165,442.45 FT` <br>*截至2019/5/17点*      |
 | 白皮书           | <a href="https://fractalproject.com/assets/pdf/fractal-whitepaper.pdf" target="_brank">项目白皮书</a><br><a href="https://fractalproject.com/assets/pdf/fractal-technical-whitepaper.pdf" target="_brank">技术白皮书</a> |
+| エクスプローラー | <a href="https://m.ft.im/" target="_brank">https://m.ft.im/</a> |
 
 *[挖矿详解](./about-mining.html#マイニングで配られるftはどこから来るのか)也有所提及，  
 FCoin Fund每周五会将本周分红用于回购销毁，
