@@ -8,17 +8,17 @@ description: よくある質問をQ&A形式で掲載するページ
 
 <dl>
     <dt>
-        Q. 登録の画面で「invalid password」と出てき進めないです。
+        Q. 登録の画面で「invalid password」と出て来て進めないです。
     </dt>
     <dd>
         A. パスワード下の入力欄に書いてあります。（ちゃんと読んで！）
-        8～32文字、少なくとも小文字1つ、大文字1つ、数字1つ、記号文字~!@#$%^&*()_+を1つ組み合わせてパスワードを入力してください。
+        8～32文字、少なくとも小文字1つ、大文字1つ、数字1つを組み合わせてパスワードを入力してください。
     </dd>
     <dt>
         Q. KYCに必要な書類はなんですか？
     </dt>
     <dd>
-        A. パスポートや、免許でできます。
+        A. パスポートや、運転免許証でできます。
     </dd>
     <dt>
         Q. KYCしていないとどうなりますか
@@ -35,7 +35,7 @@ description: よくある質問をQ&A形式で掲載するページ
         Q. 配当はどうすればもらえますか？
     </dt>
     <dd>
-        A. FTを購入し、ロックアップ（タイプは「Dividend Lock-up」を選択）することでもらえます。<br>
+        A.  FTを購入し、ロックアップ（タイプはいつでも解除可能な「Dividend」もしくは、ロック期間指定の「fixed-term」を選択）することでもらえます。<br>
         <a href="https://www.ftfan.org/forum.php?mod=viewthread&tid=2050&extra=page%3D1%26filter%3Dtypeid%26typeid%3D59&_dsign=ddcb41d2" target="_brank">
             ウェブでのロックアップ方法
         </a><br>
