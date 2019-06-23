@@ -17,6 +17,7 @@ description: 面对向详细了解挖矿人群的页面
     - [FT锁仓挖矿 (Lockup mining)](#ft锁仓挖矿-lockup-mining)
     - [投票挖矿 (Mining currencies voting)](#投票挖矿-mining-currencies-voting)
     - [推广挖矿 (Promotion mining, PR mining)](#推广挖矿-promotion-mining-pr-mining)
+    - [邀请挖矿 (Inviting mining)](#邀请挖矿-inviting-mining)
 - [关于减半机制](#关于减半机制)
 - [挖矿中发放的FT是从哪里来的](#挖矿中发放的ft是从哪里来的)
 - [挖矿的要点](#挖矿的要点)
@@ -49,6 +50,7 @@ FT的挖矿与之思路相同，是指通过在FCoin平台付出劳动力，成�
 - [FT锁仓挖矿 (Lockup mining)](#ft锁仓挖矿-lockup-mining)
 - [投票挖矿 (Mining currencies voting)](#投票挖矿-mining-currencies-voting)
 - [推广挖矿 (Promotion mining, PR mining)](#推广挖矿-promotion-mining-pr-mining)
+- [邀请挖矿 (Inviting mining)](#邀请挖矿-inviting-mining)
 
 ---
 
@@ -148,7 +150,6 @@ FCoin电报公告频道的note版本里有详细的解说。
 与交易挖矿一样的挖矿图标，也可以在FCoin官方挖矿页面上查看。  
 有关详细信息，请参考交易挖矿的[挖矿对应币种]（＃挖矿对应币种）.
 
-
 ---
 
 ## 杠杆挖矿 (Lending as mining, Leverage mining)
@@ -246,6 +247,35 @@ FT的发放数量会在投票活动时发布。
 作为展示FCoin及FT相关的推广成果的机会，每个月会有一次推广挖矿活动。
 满足参与推广挖矿的用户必须组成一个5人小组进行推广挖矿的申请，这个小组就是推广节点。
 按照获得的参与投票的FCoin用户的票数多少进行排序，并获得相应奖励。
+
+---
+
+## 邀请挖矿 (Inviting mining)
+
+| 項目             | 説明                   | 
+|:-----------------|:-----------------------|
+| 参加方法          | 招待コードによって新規ユーザーを獲得し、KYC認証に合格させる |
+| 参加条件          | KYC済みであること |
+| FTの付与タイミング | リファボーナスの種類によって異なり、翌日から1週間の間 |
+    
+### 解説
+招待コードによって、新規ユーザーを獲得し、そのユーザーをKYC認証済みにさせると、
+マイニング報酬を受け取ることができます。  
+マイニング報酬は、招待された側の行動に応じて得られる仕組みとなっており、基本となる考え方は、
+招待されたユーザーが、FCoinをより使いこなし、より多くの資金を動かすほど招待者のボーナスが増えるようになっています。
+
+![邀请挖矿](./images/mining/inviting-mining-chart.png "邀请挖矿の報酬")
+
+さらに詳細な説明は下記を参照してください。
+<div style="text-align: right;">
+    <a href="https://fcoin.zendesk.com/hc/zh-cn/articles/360025013393-FCoin%E5%90%AF%E5%8A%A8%E9%82%80%E8%AF%B7%E6%8C%96%E7%9F%BF%E6%B4%BB%E5%8A%A8-%E8%AF%95%E8%A1%8C-%E7%9A%84%E5%85%AC%E5%91%8A" target="_brank">邀请挖矿についての説明</a>  
+</div>
+
+また、招待コードの発行ページは下記です。
+invitation linkをコピーして友人に共有し、友人がそのリンクからFCoinに登録することが邀请挖矿の必要条件となります。
+<div style="text-align: right;">
+    <a href="https://www.fcoin.pro/invite" target="_brank">FCoin公式サイトの招待コードページ</a>  
+</div>
 
 ---
 

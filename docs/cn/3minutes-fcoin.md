@@ -136,6 +136,16 @@ description: 这是为了想要整体掌握FCoin所提供的服务的人而建�
         <dt>大额提现</dt>
         <dd>单日提现2BTC或者20ETH以上，需要KYC</dd>
     </dl>
+    <dl>
+        <dt>
+            <a href="./about-mining.html#邀请挖矿-inviting-mining" target="_brank">
+                邀请挖矿
+            </a>
+        </dt>
+        <dd>
+            リファラルプログラムのことで、招待する側と招待される側の両方ともKYCが必要
+        </dd>
+    </dl>
 
 - ## 需要锁仓1万FT的项目  
 

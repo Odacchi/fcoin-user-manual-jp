@@ -136,6 +136,16 @@ FCoinにはFTロックアップによる毎日の配当以外にも多くのお�
         <dt>高額出金</dt>
         <dd>1日あたり2BTC or 20ETH以上出金する場合はKYCが必要</dd>
     </dl>
+    <dl>
+        <dt>
+            <a href="./about-mining.html#リファマイニング-inviting-mining" target="_brank">
+                リファマイニング
+            </a>
+        </dt>
+        <dd>
+            リファラルプログラムのことで、招待する側と招待される側の両方ともKYCが必要
+        </dd>
+    </dl>
 
 - ## 1万FTロックアップが必要  
 

@@ -17,6 +17,7 @@ description: マイニングについて詳細を知りたい人向けのペー�
     - [FTロックアップマイニング (Lockup mining)](#ftロックアップマイニング-lockup-mining)
     - [投票マイニング (Mining currencies voting)](#投票マイニング-mining-currencies-voting)
     - [PRマイニング (Promotion mining, PR mining)](#prマイニング-promotion-mining-pr-mining)
+    - [リファマイニング (Inviting mining)](#リファマイニング-inviting-mining)
 - [半減期について](#半減期について)
 - [マイニングで配られるFTはどこから来るのか](#マイニングで配られるftはどこから来るのか)
 - [マイニングのポイント](#マイニングのポイント)
@@ -49,6 +50,7 @@ FTの売買や入出金はできませんが、配当や投票権などFTの基�
 - [FTロックアップマイニング (Lockup mining)](#ftロックアップマイニング-lockup-mining)
 - [投票マイニング (Mining currencies voting)](#投票マイニング-mining-currencies-voting)
 - [PRマイニング (Promotion mining, PR mining)](#prマイニング-promotion-mining-pr-mining)
+- [リファマイニング (Inviting mining)](#リファマイニング-inviting-mining)
 
 ---
 
@@ -257,6 +259,35 @@ FCoinおよびFTのプロモーション成果をアピールする機会とし�
 PRマイニングに参加するには参加条件を満たしたユーザーを自分含めて５人以上を集めグループとして申請する必要があり、
 このPRマイニングのために活動するグループのことをPRノードと呼びます。  
 FCoinユーザー全体から認められ多くの得票を集めると、得票順位に応じたFTがPRノードに対して配布されます。    
+
+---
+
+## リファマイニング (Inviting mining)
+
+| 項目             | 説明                   | 
+|:-----------------|:-----------------------|
+| 参加方法          | 招待コードによって新規ユーザーを獲得し、KYC認証に合格させる |
+| 参加条件          | KYC済みであること |
+| FTの付与タイミング | リファボーナスの種類によって異なり、翌日から1週間の間 |
+    
+### 解説
+招待コードによって、新規ユーザーを獲得し、そのユーザーをKYC認証済みにさせると、
+マイニング報酬を受け取ることができます。  
+マイニング報酬は、招待された側の行動に応じて得られる仕組みとなっており、基本となる考え方は、
+招待されたユーザーが、FCoinをより使いこなし、より多くの資金を動かすほど招待者のボーナスが増えるようになっています。
+
+![リファマイニング](./images/mining/inviting-mining-chart.png "リファマイニングの報酬")
+
+さらに詳細な説明は下記を参照してください。
+<div style="text-align: right;">
+    <a href="https://note.mu/fcoinfanjapanese/n/nfa2f06814420" target="_brank">リファマイニングについての説明 | note</a>  
+</div>
+
+また、招待コードの発行ページは下記です。
+invitation linkをコピーして友人に共有し、友人がそのリンクからFCoinに登録することがリファマイニングの必要条件となります。
+<div style="text-align: right;">
+    <a href="https://www.fcoin.pro/invite" target="_brank">FCoin公式サイトの招待コードページ</a>  
+</div>
 
 ---
 
