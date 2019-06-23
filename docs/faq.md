@@ -24,7 +24,8 @@ description: よくある質問をQ&A形式で掲載するページ
         Q. KYCしていないとどうなりますか
     </dt>
     <dd>
-       A. 出金の上限制限とパスワード変更に制限がかかるようです。
+       A. 出金に上限制限（1日あたり2BTC or 20ETHまで）がつき、2段階認証コードが紛失した場合に、解除に制限がかかるようです。
+       また、一部のサービスが対象外となったり制限がかかったりします（PRマイニング、取引マイニング、投票マイニング等）。
        その他、出金トラブル時の対応にはKYCを済ませていたほうがスムーズに対応してもらえます。
        KYCすることを強く推奨します。<br>
        <a href="https://support.fcoin.com/hc/en-us/articles/360003738993-Deposit-and-Withdrawal-Time-and-Limits" target="_brank">
