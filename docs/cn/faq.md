@@ -36,7 +36,7 @@ description: よくある質問をQ&A形式で掲載するページ
         Q. 配当はどうすればもらえますか？
     </dt>
     <dd>
-        A.  FTを購入し、ロックアップ（タイプはいつでも解除可能な「Dividend」もしくは、ロック期間指定の「fixed-term」を選択）することでもらえます。<br>
+        A.  FTを購入し、ロックアップ（タイプはいつでも解除可能な「Flexible（旧：Dividend）」もしくは、ロック期間指定の「fixed-term」を選択）することでもらえます。<br>
         <a href="https://www.ftfan.org/forum.php?mod=viewthread&tid=2050&extra=page%3D1%26filter%3Dtypeid%26typeid%3D59&_dsign=ddcb41d2" target="_brank">
             ウェブでのロックアップ方法
         </a><br>
