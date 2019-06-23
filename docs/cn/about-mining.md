@@ -267,7 +267,7 @@ FT的发放数量会在投票活动时发布。
 
 ![FT的持有比例](./images/ft-share.png)
 
-*图像中的数据为截止2019年6月的FT持有数量。
+*图像中的数据为截止2019年6月21日的FT持有数量。
  - [FCoin创业团队FT锁仓地址](https://etherscan.io/token/0xd37532d304214d588aeeac4c365e8f1d72e2304a?a=0xa51b6001e00879ca95a0f5e77e3e49469c920a7e)
  - [FCoin FundFT锁仓地址](https://etherscan.io/token/0xd37532d304214d588aeeac4c365e8f1d72e2304a?a=0xf6b64d970a9d6c2771bc79a34133d9f4b93990c0)
 

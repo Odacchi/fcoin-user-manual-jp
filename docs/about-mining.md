@@ -278,7 +278,7 @@ FT市場の安定のために利用されるファンドが保有するFTを徐�
 
 ![FTの保有割合](./images/ft-share.png)
 
-*FTの保有枚数は2019年6月時点のデータを元としています。
+*FTの保有枚数は2019年6月21日時点のデータを元としています。
  - [FCoin創業チームFTロックアップアドレス](https://etherscan.io/token/0xd37532d304214d588aeeac4c365e8f1d72e2304a?a=0xa51b6001e00879ca95a0f5e77e3e49469c920a7e)
  - [FCoinファンドFTロックアップアドレス](https://etherscan.io/token/0xd37532d304214d588aeeac4c365e8f1d72e2304a?a=0xf6b64d970a9d6c2771bc79a34133d9f4b93990c0)
 
