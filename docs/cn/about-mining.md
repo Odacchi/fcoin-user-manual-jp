@@ -252,29 +252,29 @@ FT的发放数量会在投票活动时发布。
 
 ## 邀请挖矿 (Inviting mining)
 
-| 項目             | 説明                   | 
+| 项目             | 说明                   | 
 |:-----------------|:-----------------------|
-| 参加方法          | 招待コードによって新規ユーザーを獲得し、KYC認証に合格させる |
-| 参加条件          | KYC済みであること |
-| FTの付与タイミング | リファボーナスの種類によって異なり、翌日から1週間の間 |
+| 参加方法          | 通过邀请码邀请新用户，并且使其完成KYC认证 |
+| 参加条件          | 完成KYC认证 |
+| FT的发放时间  | 不同邀请奖励类型发放时间不同，基本为次日开始一周内 |
     
-### 解説
-招待コードによって、新規ユーザーを獲得し、そのユーザーをKYC認証済みにさせると、
-マイニング報酬を受け取ることができます。  
-マイニング報酬は、招待された側の行動に応じて得られる仕組みとなっており、基本となる考え方は、
-招待されたユーザーが、FCoinをより使いこなし、より多くの資金を動かすほど招待者のボーナスが増えるようになっています。
+### 解说
+通过邀请码邀请新用户，并且使其完成KYC认证的话，
+即有机会获得邀请挖矿奖励。 
+邀请挖矿奖励的获得根据被邀请者的相关行为进行计算，基本上可以这么认为，
+被邀请者使用FCoin的次数越多，在FCoin交易的金额越多，锁仓FT的时间越长，邀请者获得的奖励就越多。
 
-![邀请挖矿](./images/mining/inviting-mining-chart.png "邀请挖矿の報酬")
+![邀请挖矿](./images/mining/inviting-mining-chart.png "邀请挖矿的奖励")
 
-さらに詳細な説明は下記を参照してください。
+更多信息请参考以下链接。
 <div style="text-align: right;">
-    <a href="https://fcoin.zendesk.com/hc/zh-cn/articles/360025013393-FCoin%E5%90%AF%E5%8A%A8%E9%82%80%E8%AF%B7%E6%8C%96%E7%9F%BF%E6%B4%BB%E5%8A%A8-%E8%AF%95%E8%A1%8C-%E7%9A%84%E5%85%AC%E5%91%8A" target="_brank">邀请挖矿についての説明</a>  
+    <a href="https://note.mu/fcoinfanjapanese/n/nfa2f06814420" target="_brank">邀请挖矿的说明 | note</a>  
 </div>
 
-また、招待コードの発行ページは下記です。
-invitation linkをコピーして友人に共有し、友人がそのリンクからFCoinに登録することが邀请挖矿の必要条件となります。
+此外，邀请码的查看页面为以下链接。
+参加邀请挖矿的基本条件为，复制邀请链接（invitation link）发送给被邀请者，被邀请者必须通过邀请者发送的链接进行注册FCoin。
 <div style="text-align: right;">
-    <a href="https://www.fcoin.pro/invite" target="_brank">FCoin公式サイトの招待コードページ</a>  
+    <a href="https://www.fcoin.pro/invite" target="_brank">FCoin官网邀请码查看页面</a>  
 </div>
 
 ---
