@@ -200,7 +200,7 @@ FCoinにはFTロックアップによる毎日の配当以外にも多くのお�
             レバレッジ利用
         </dt>
         <dd>
-            最大５倍のレバレッジを効かせた取引が可能
+            最大6倍のレバレッジを効かせた取引が可能
         </dd>
         <dt>
             <a href="./about-mining.html#レバレッジマイニング-lending-as-mining-leverage-mining" target="_brank">

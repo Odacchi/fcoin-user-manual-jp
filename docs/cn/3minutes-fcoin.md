@@ -200,7 +200,7 @@ description: 这是为了想要整体掌握FCoin所提供的服务的人而建�
             使用杠杆账户
         </dt>
         <dd>
-            最大可以使用本金5倍的杠杆交易
+            最大可以使用本金6倍的杠杆交易
         </dd>
         <dt>
             <a href="./about-mining.html#杠杆挖矿-lending-as-mining-leverage-mining" target="_brank">
