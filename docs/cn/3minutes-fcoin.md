@@ -49,7 +49,7 @@ description: 这是为了想要整体掌握FCoin所提供的服务的人而建�
 存入理财账户的数字货币会被用于杠杆交易的借贷。
     
 - 已经支持的币种：  
-    `BTC`, `ETH`, `XRP`, `LTC`, `BCH`, `EOS`, `ETC`, `ADA`, `ZEC`, `DASH`, `XLM`, `USDT`
+    `BTC`, `ETH`, `XRP`, `LTC`, `BCH`, `EOS`, `ETC`, `ADA`, `ZEC`, `DASH`, `XLM`, `TRX`, `USDT`
 
 各币种利率各不相同，且采用每日根据实际情况调整利率的动态利率制度。  
 关于最新的利率，可以<a href="https://www.fcoin.com/finance" target="_brank">前往这里</a>（FCoin官网）进行确认。    
@@ -69,7 +69,7 @@ description: 这是为了想要整体掌握FCoin所提供的服务的人而建�
     - 6倍  
         `BTC`
     - 5倍  
-        `ETH`, `XRP`, `LTC`, `BCH`, `EOS`, `ETC`
+        `ETH`, `XRP`, `LTC`, `BCH`, `EOS`, `ETC`, `TRX`
     - 3倍  
         `ADA`, `ZEC`, `DASH`, `XLM`  
 

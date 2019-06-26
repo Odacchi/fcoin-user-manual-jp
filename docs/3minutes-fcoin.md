@@ -49,7 +49,7 @@ FCoinでなんらかのサービスを利用する場合、そのサービス用
 理財口座に預金された通貨はレバレッジ取引への貸し出しのために使われます。
     
 - 対応通貨：  
-    `BTC`, `ETH`, `XRP`, `LTC`, `BCH`, `EOS`, `ETC`, `ADA`, `ZEC`, `DASH`, `XLM`, `USDT`
+    `BTC`, `ETH`, `XRP`, `LTC`, `BCH`, `EOS`, `ETC`, `ADA`, `ZEC`, `DASH`, `XLM`, `TRX`, `USDT`
 
 通貨ごとに利率は異なり、毎日利率の見直しがある変動金利制です。  
 最新の日利は<a href="https://www.fcoin.com/finance" target="_brank">コチラ</a>（FCoin公式）から確認できます。    
@@ -69,7 +69,7 @@ FCoinでなんらかのサービスを利用する場合、そのサービス用
     - 6倍まで  
         `BTC`
     - 5倍まで  
-        `ETH`, `XRP`, `LTC`, `BCH`, `EOS`, `ETC`
+        `ETH`, `XRP`, `LTC`, `BCH`, `EOS`, `ETC`, `TRX`
     - 3倍まで  
         `ADA`, `ZEC`, `DASH`, `XLM`  
 
