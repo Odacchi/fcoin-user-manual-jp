@@ -15,13 +15,22 @@ description: よくある質問をQ&A形式で掲載するページ
         8～32文字、少なくとも小文字1つ、大文字1つ、数字1つを組み合わせてパスワードを入力してください。
     </dd>
     <dt>
+        Q. ログインパスワードのリセットの方法を教えてください
+    </dt>
+    <dd>
+        A. 下記に詳しくまとめています。<br>
+        <a href="https://note.mu/fcoinfanjapanese/n/ne4b389781009" target="_brank">
+            【ヘルプセンター】アプリでログインパスワードをリセットする | note
+        </a>
+    </dd>
+    <dt>
         Q. KYCに必要な書類はなんですか？
     </dt>
     <dd>
         A. パスポートや、運転免許証でできます。
     </dd>
     <dt>
-        Q. KYCしていないとどうなりますか
+        Q. KYCしていないとどうなりますか？
     </dt>
     <dd>
        A. 出金に上限制限（1日あたり2BTC or 20ETHまで）がつき、2段階認証コードが紛失した場合に、解除に制限がかかるようです。
@@ -45,6 +54,15 @@ description: よくある質問をQ&A形式で掲載するページ
         </a>
     </dd>
     <dt>
+        Q. ロックアップの種類と内容について教えてください。
+    </dt>
+    <dd>
+        A. 下記にロックアップの種類と内容をまとめています。<br>
+        <a href="https://note.mu/hrt0529/n/nd5947d42465a" target="_brank">
+            FTロックアップの種類について | note
+        </a>
+    </dd>
+    <dt>
         Q. 配当はいつですか？ 
     </dt>
     <dd>
@@ -54,30 +72,64 @@ description: よくある質問をQ&A形式で掲載するページ
         </a>
     </dd>
     <dt>
-        Q. 配当が入金されたか知りたい
+        Q. 配当が入金されたか知りたい。
     </dt>
     <dd>
         A. 「Finance history」の「my wallet」で「Income distribution」という項目が配当の入金です。
     </dd>
     <dt>
-        Q. 入金履歴にある配当が Finance に反映されない
+        Q. 入金履歴にある配当が Finance に反映されない。
     </dt>
     <dd>
         A. 履歴に表示されてから Finance に反映されるまで時間がかかるようです。
         しばらくお待ちください。
     </dd>
     <dt>
-        Q. スマホから出金するときアドレスを入力できません
+        Q. スマホから出金するときアドレスを入力できません。
     </dt>
     <dd>
         A. 普通にコピーと貼り付けもできますが、事前にアドレスを登録してから出金すると良いです。
         「my wallet」の各通貨の「withdraw」ページにある 「Add Withdrawal Address」ボタンと押して、追加できます。
     </dd>
     <dt>
-        Q. 出金をキャンセルしたい
+        Q. 出金方法を教えてください。
+    </dt>
+    <dd>
+        A. 下記に詳しくまとめています。<br>
+        <a href="https://note.mu/fcoinfanjapanese/n/n7a13a23bbd38" target="_brank">
+            【ヘルプセンター】出金プロセスの詳細（画像つけ） | note
+        </a>
+        出金申請したあと、出金履歴でwallet transferのままで長時間変わらなければ、カスタマーサポートに連絡してください。
+        <a href="https://www.fcoin.com" target="_brank">
+            FCoin公式サイト
+        </a>
+        <a href="https://t.me/joinchat/H6Li9VMbf4A0XPt6DeJgVA" target="_brank">
+            FCoin 質問グループ | Telegram
+        </a>
+    </dd>
+    <dt>
+        Q. 出金をキャンセルしたい。
     </dt>
     <dd>
         A. 出金の確認メールにあるリンクを押してないことは前提で、出金画面の「Withdraw History」からキャンセルすることができます。
+    </dd>
+    <dt>
+        Q. 2段階認証の設定方法について教えてください。
+    </dt>
+    <dd>
+        A. 下記に詳しくまとめています。<br>
+        <a href="https://note.mu/fcoinfanjapanese/n/n4708e5c035a2" target="_brank">
+            【ヘルプセンター】Google認証システムを紐付ける方法及び、日常利用で頻繁に発生する問題への解決策 | note
+        </a>
+    </dd>
+    <dt>
+        Q. リファの詳細について教えてください。
+    </dt>
+    <dd>
+        A. 下記に詳しくまとめています。<br>
+        <a href="https://note.mu/hrt0529/n/n77d2652aa1e9" target="_brank">
+            【FTリファの内容について | note
+        </a>
     </dd>
 </dl>
 
