@@ -74,7 +74,7 @@ FCoin Fund每周五会将本周分红用于回购销毁，
 
 maker方负手续费、taker方支付手续费。
 其中结余部分会成为平台的收益。
-![FCoin手续费制度](./images/trading-fees.png)
+![FCoin手续费制度](./images/trading-fees.jpg)
   
 FCoin官方的手续费表请前往[这里](https://fcoin.zendesk.com/hc/zh-cn/articles/360003715514)
 
