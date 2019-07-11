@@ -18,10 +18,14 @@ description: よくある質問をQ&A形式で掲載するページ
         Q. ログインパスワードのリセットの方法を教えてください
     </dt>
     <dd>
-        A. 下記に詳しくまとめています。<br>
-        <a href="https://note.mu/fcoinfanjapanese/n/ne4b389781009" target="_brank">
-            【ヘルプセンター】アプリでログインパスワードをリセットする | note
-        </a>
+        A. 下記に詳しくまとめています。
+        <ul>
+            <li>
+                <a href="https://note.mu/fcoinfanjapanese/n/ne4b389781009" target="_brank">
+                    【ヘルプセンター】アプリでログインパスワードをリセットする | note
+                </a>
+            </li>
+        </ul>
     </dd>
     <dt>
         Q. KYCに必要な書類はなんですか？
@@ -33,34 +37,48 @@ description: よくある質問をQ&A形式で掲載するページ
         Q. KYCしていないとどうなりますか？
     </dt>
     <dd>
-       A. 出金に上限制限（1日あたり2BTC or 20ETHまで）がつき、2段階認証コードが紛失した場合に、解除に制限がかかるようです。
-       また、一部のサービスが対象外となったり制限がかかったりします（PRマイニング、取引マイニング、投票マイニング等）。
-       その他、出金トラブル時の対応にはKYCを済ませていたほうがスムーズに対応してもらえます。
-       KYCすることを強く推奨します。<br>
-       <a href="https://support.fcoin.com/hc/en-us/articles/360003738993-Deposit-and-Withdrawal-Time-and-Limits" target="_brank">
-           預金と引き出しの時間と制限
-       </a>
+        A. 出金に上限制限（1日あたり2BTC or 20ETHまで）がつき、2段階認証コードが紛失した場合に、解除に制限がかかるようです。
+        また、一部のサービスが対象外となったり制限がかかったりします（PRマイニング、取引マイニング、投票マイニング等）。
+        その他、出金トラブル時の対応にはKYCを済ませていたほうがスムーズに対応してもらえます。
+        KYCすることを強く推奨します。
+        <ul>
+            <li>
+                <a href="https://support.fcoin.com/hc/en-us/articles/360003738993-Deposit-and-Withdrawal-Time-and-Limits" target="_brank">
+                    預金と引き出しの時間と制限（英語）
+                </a>
+            </li>
+        </ul>
     </dd>
     <dt>
         Q. 配当はどうすればもらえますか？
     </dt>
     <dd>
-        A.  FTを購入し、ロックアップ（タイプはいつでも解除可能な「Flexible（旧：Dividend）」もしくは、ロック期間指定の「fixed-term」を選択）することでもらえます。<br>
-        <a href="https://www.ftfan.org/forum.php?mod=viewthread&tid=2050&extra=page%3D1%26filter%3Dtypeid%26typeid%3D59&_dsign=ddcb41d2" target="_brank">
-            ウェブでのロックアップ方法
-        </a><br>
-        <a href="https://www.ftfan.org/forum.php?mod=viewthread&tid=2046&extra=page%3D1%26filter%3Dtypeid%26typeid%3D59&_dsign=28f60eac" target="_brank">
-            アプリでのロックアップ方法
-        </a>
+        A.  FTを購入し、ロックアップ（タイプはいつでも解除可能な「Flexible（旧：Dividend）」もしくは、ロック期間指定の「fixed-term」を選択）することでもらえます。
+        <ul>
+            <li>
+                <a href="https://www.ftfan.org/forum.php?mod=viewthread&tid=2050&extra=page%3D1%26filter%3Dtypeid%26typeid%3D59&_dsign=ddcb41d2" target="_brank">
+                    ウェブでのロックアップ方法 | note
+                </a>
+            </li>
+            <li>
+                <a href="https://www.ftfan.org/forum.php?mod=viewthread&tid=2046&extra=page%3D1%26filter%3Dtypeid%26typeid%3D59&_dsign=28f60eac" target="_brank">
+                    アプリでのロックアップ方法 | note
+                </a>
+            </li>
+        </ul>
     </dd>
     <dt>
         Q. ロックアップの種類と内容について教えてください。
     </dt>
     <dd>
-        A. 下記にロックアップの種類と内容をまとめています。<br>
-        <a href="https://note.mu/hrt0529/n/nd5947d42465a" target="_brank">
-            FTロックアップの種類について | note
-        </a>
+        A. 下記にロックアップの種類と内容をまとめています。
+        <ul>
+            <li>
+                <a href="https://note.mu/hrt0529/n/nd5947d42465a" target="_brank">
+                    FTロックアップの種類について | note
+                </a>
+            </li>
+        </ul>
     </dd>
     <dt>
         Q. 配当はいつですか？ 
@@ -68,7 +86,7 @@ description: よくある質問をQ&A形式で掲載するページ
     <dd>
         A. FTをロックアップしている日の翌日です。<br>
         <a href="https://t.me/fcoinfanjapanese/519" target="_brank">
-            配当メカニズムについて（テレグラムへ）
+            配当メカニズムについて | Telegram
         </a>
     </dd>
     <dt>
@@ -95,17 +113,29 @@ description: よくある質問をQ&A形式で掲載するページ
         Q. 出金方法を教えてください。
     </dt>
     <dd>
-        A. 下記に詳しくまとめています。<br>
-        <a href="https://note.mu/fcoinfanjapanese/n/n7a13a23bbd38" target="_brank">
-            【ヘルプセンター】出金プロセスの詳細（画像つけ） | note
-        </a><br>
-        出金申請したあと、出金履歴でwallet transferのままで長時間変わらなければ、カスタマーサポートに連絡してください。<br>
-        <a href="https://www.fcoin.com" target="_brank">
-            FCoin公式サイト
-        </a><br>
-        <a href="https://t.me/joinchat/H6Li9VMbf4A0XPt6DeJgVA" target="_brank">
-            FCoin 質問グループ | Telegram
-        </a>
+        A. 下記に詳しくまとめています。
+        <ul>
+            <li>
+                <a href="https://note.mu/fcoinfanjapanese/n/n7a13a23bbd38" target="_brank">
+                    【ヘルプセンター】出金プロセスの詳細（画像つけ） | note
+                </a>
+            </li>
+            <li>
+            </li>
+        </ul>
+        出金申請したあと、出金履歴でwallet transferのままで長時間変わらなければ、カスタマーサポートに連絡してください。
+        <ul>
+            <li>
+                <a href="https://www.fcoin.com" target="_brank">
+                    FCoin公式サイト
+                </a>
+            </li>
+            <li>
+                <a href="https://t.me/joinchat/H6Li9VMbf4A0XPt6DeJgVA" target="_brank">
+                    FCoin 質問グループ | Telegram
+                </a>
+            </li>
+        </ul>
     </dd>
     <dt>
         Q. 出金をキャンセルしたい。
@@ -117,10 +147,14 @@ description: よくある質問をQ&A形式で掲載するページ
         Q. 2段階認証の設定方法について教えてください。
     </dt>
     <dd>
-        A. 下記に詳しくまとめています。<br>
-        <a href="https://note.mu/fcoinfanjapanese/n/n4708e5c035a2" target="_brank">
-            【ヘルプセンター】Google認証システムを紐付ける方法及び、日常利用で頻繁に発生する問題への解決策 | note
-        </a>
+        A. 下記に詳しくまとめています。
+        <ul>
+            <li>
+                <a href="https://note.mu/fcoinfanjapanese/n/n4708e5c035a2" target="_brank">
+                    【ヘルプセンター】Google認証システムを紐付ける方法及び、日常利用で頻繁に発生する問題への解決策 | note
+                </a>
+            </li>
+        </ul>
     </dd>
     <dt>
         Q. リファの詳細について教えてください。
