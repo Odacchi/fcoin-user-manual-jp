@@ -84,10 +84,14 @@ description: よくある質問をQ&A形式で掲載するページ
         Q. 配当はいつですか？ 
     </dt>
     <dd>
-        A. FTをロックアップしている日の翌日です。<br>
-        <a href="https://t.me/fcoinfanjapanese/519" target="_brank">
-            配当メカニズムについて | Telegram
-        </a>
+        A. FTをロックアップしている日の翌日です。
+        <ul>
+            <li>
+                <a href="https://t.me/fcoinfanjapanese/519" target="_brank">
+                    配当メカニズムについて | Telegram
+                </a>
+            </li>
+        </ul>
     </dd>
     <dt>
         Q. 配当が入金されたか知りたい。
