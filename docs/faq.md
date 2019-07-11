@@ -98,11 +98,11 @@ description: よくある質問をQ&A形式で掲載するページ
         A. 下記に詳しくまとめています。<br>
         <a href="https://note.mu/fcoinfanjapanese/n/n7a13a23bbd38" target="_brank">
             【ヘルプセンター】出金プロセスの詳細（画像つけ） | note
-        </a>
-        出金申請したあと、出金履歴でwallet transferのままで長時間変わらなければ、カスタマーサポートに連絡してください。
+        </a><br>
+        出金申請したあと、出金履歴でwallet transferのままで長時間変わらなければ、カスタマーサポートに連絡してください。<br>
         <a href="https://www.fcoin.com" target="_brank">
             FCoin公式サイト
-        </a>
+        </a><br>
         <a href="https://t.me/joinchat/H6Li9VMbf4A0XPt6DeJgVA" target="_brank">
             FCoin 質問グループ | Telegram
         </a>
