@@ -126,10 +126,19 @@ description: よくある質問をQ&A形式で掲載するページ
         Q. リファの詳細について教えてください。
     </dt>
     <dd>
-        A. 下記に詳しくまとめています。<br>
-        <a href="https://note.mu/hrt0529/n/n77d2652aa1e9" target="_brank">
-            【FTリファの内容について | note
-        </a>
+        A. 下記などを参考にしてください。
+        <ul>
+            <li>
+                <a href="https://www.fcoin-manual.com/about-mining.html#%E3%83%AA%E3%83%95%E3%82%A1%E3%83%9E%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0-inviting-mining" target="_brank">
+                    リファマイニング (Inviting mining) | FCoinトリセツ
+                </a>
+            </li>
+            <li>
+            <a href="https://note.mu/hrt0529/n/n77d2652aa1e9" target="_brank">
+                【FTリファの内容について | note
+            </a>
+            </li>
+        </ul>
     </dd>
 </dl>
 
