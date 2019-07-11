@@ -19,9 +19,9 @@ FT持有者所有、来自FT持有者、为了FT持有者的FCoin说明书*。
 
 # FCoin是什么？
 
-FCoin是来自中国的数字货币交易所。是原HoubiCTO张健创设的、
-同时也具备中国最大的加密媒体火星财经持有1亿FT这样的话题性，
-是最初发明/装载了现如今多数交易所采用的下列概念的先驱者：  
+FCoin是中国的数字货币交易所，由火币原CTO张健先生创设。
+同时中国最大的区块链信息专业服务平台火星财经持有1亿FT使得FCoin倍具话题性。
+作为加密行业的先驱者，FCoin发明/装载了现如今多数交易所采用的下列概念：  
 - 交易挖矿
 - IEO
 - 收益与资产透明化
@@ -44,9 +44,9 @@ FT起初是FCoin的平台币，作为社区化交易平台FCoin的权益代表�
 | 白皮书           | <a href="https://fractalproject.com/assets/pdf/fractal-whitepaper.pdf" target="_brank">项目白皮书</a><br><a href="https://fractalproject.com/assets/pdf/fractal-technical-whitepaper.pdf" target="_brank">技术白皮书</a> |
 | 区块链浏览器 | <a href="https://m.ft.im/" target="_brank">https://m.ft.im/</a> |
 
-*[挖矿详解](./about-mining.html#マイニングで配られるftはどこから来るのか)也有所提及，  
-FCoin Fund每周五会将本周分红用于回购销毁，
-由于FCoin Fund的存在，FT是一种总发行量在逐渐减少的通缩型数字资产。
+*[挖矿详解](./about-mining.html#挖矿中发放的ft是从哪里来的)也有所提及，  
+FCoin Fund每周五会将该周分红用于回购销毁， 
+由于这种机制的存在，FT是一种总发行量在逐渐减少的通缩型数字资产。
 
 ## 持有FT的好处
 
@@ -57,8 +57,8 @@ FCoin Fund每周五会将本周分红用于回购销毁，
 
 ## 分红制度
 
-取通过用户在交易所交易，FCoin平台可以获得手续费收益。  
-其中20%用于支持平台基本开支，80%将分配给FT持有者。  
+通过用户在交易所交易，FCoin平台可以获得手续费收益。  
+其中20%用于支持平台开支维持，80%将分配给FT持有者。  
 每日平台收益的使用途径如下图所示。  
 
 ![收入分成比率](./images/revenue-share-ratio.png)
@@ -87,9 +87,9 @@ FCoin在FCoin官网首页公开展示与收益性相关的重要信息。
 
 # 关于挖矿
 
-通过在交易所交易，获得交易所平台币，
-作为创造了这样的“交易挖矿”概念进而广为人知的交易所FCoin，
-现在将之改良、设计成了“日常使用FCoin就是参与FT的挖矿”。
+通过在交易所交易，将获得交易所平台币FT。 
+作为创造了这样的“交易挖矿”模式，进而广为人知的交易所FCoin， 
+现在将被改良、向着“日常使用FCoin就是参与FT的挖矿”而前进。
 
 - FCoin使用说明书中挖矿相关的说明页面请前往[这里](./about-mining.html)
 - 官方挖矿相关说明页面请前往[这里](https://www.fcoin.com/mining) 
