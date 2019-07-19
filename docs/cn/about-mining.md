@@ -209,7 +209,6 @@ FCoin电报公告频道的note版本里有详细的解说。
 具体，各个锁仓时间和效率（挖矿系数）的对应关系如下图。
 
 ![锁仓挖矿系数的计算方法](./images/mining/lockup-mining-chart.jpg "锁仓挖矿系数的计算方法")  
-*图片提供：<a href="https://note.mu/ilovebanana/n/n1789f51e1a4d" target="_brank">图解FCoin锁仓挖矿的算法升级 | note | 香蕉先生</a>
 
 每天锁仓挖矿所产出的FT的总量也是固定的，会定期进行调整。
 关于当前每日锁仓挖矿产出，
