@@ -29,7 +29,8 @@ FT的挖矿与之思路相同，是指通过在FCoin平台付出劳动力，成�
 在FT的挖矿中付出的劳动力，成本指的是大量使用FCoin平台这件事。
 
 普通的交易也可以参与挖矿，此外还有各种方法也可以参与FT挖矿。
-如果参与挖矿，就可以获得锁仓1年的FT。  
+  
+![单日FT挖矿平均产出量的推移](./images/mining/mining-volume-transition.png "单日FT挖矿平均产出量的推移")
   
 <div style="text-align: right;">
     <a href="https://www.fcoin.com/mining" target="_brank">前往FCoin挖矿说明页面</a>  
