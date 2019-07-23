@@ -11,6 +11,8 @@ description: 相关链接合集页面
     - [FCoin官网](https://www.fcoin.com)
     - [FToken官网](https://ftoken.com)
     - [FCoin官方推特（英语）](https://twitter.com/FCoinOfficial)
+    - [FTfan社区论坛](https://www.ftfan.org)
+    - [FCoin官方微博](https://www.weibo.com/7032418697)
 
 - FCoin日本社区电报
     - [FCoin公告频道（日语）](https://t.me/fcoinfanjapanese)
