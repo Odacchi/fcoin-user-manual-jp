@@ -128,7 +128,7 @@ FT的挖矿与之思路相同，是指通过在FCoin平台付出劳动力，成�
 
 ### 挖矿支持的交易对
 与交易挖矿一样的挖矿图标，也可以在FCoin官方挖矿页面上查看。
-详情请参考交易挖矿的[挖矿对应币种]（＃挖矿对应币种）。
+详情请参考交易挖矿的[挖矿对应币种]（#挖矿对应币种）。
 
 ---
 
@@ -143,12 +143,13 @@ FT的挖矿与之思路相同，是指通过在FCoin平台付出劳动力，成�
 ### 解説
 盘口上下11档价格内为排序挖矿参与对象。
 
-FCoin电报公告频道的note版本里有详细的解说。
-<a href="https://note.mu/fcoinfanjapanese/n/ne59cd48cc711" target="_brank">【帮助中心】关于排序挖矿的说明 | note | FCoin电报公告频道</a>
+<div style="text-align: right;">
+   <a href="https://fcoin.zendesk.com/hc/zh-cn/articles/360029974394-Announcement-on-the-Upgrade-of-Sorting-Mining-Rules" target="_brank">排序挖矿规则升级公告</a>  
+</div>
 
 ### 挖矿对应币种
 与交易挖矿一样的挖矿图标，也可以在FCoin官方挖矿页面上查看。  
-有关详细信息，请参考交易挖矿的[挖矿对应币种]（＃挖矿对应币种）.
+有关详细信息，请参考交易挖矿的[挖矿对应币种]（#挖矿对应币种）.
 
 ---
 
