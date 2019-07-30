@@ -22,7 +22,11 @@ description: 関連リンクを掲載するページ
         - [トップページ](https://www.fcoin.com/category/onlineproexchange)
         - [Telegram](https://t.me/OnlinePro_Exchange)
         
-- FTokenノード日本コミュニティ
+### FTパブリックチェーン関連
+- FTパブリックチェーンのスーパーノード候補：
+    - CoinLinker
+        - [公式サイト](https://www.coinlinker.io)
+- FTシティノード日本コミュニティ
     - FTokenTokyo
         - [Telegram](https://t.me/ftokentokyo)
         

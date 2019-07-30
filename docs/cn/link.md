@@ -22,12 +22,18 @@ description: 相关链接合集页面
     - Online Pro Exchange
         - [首页](https://www.fcoin.com/category/onlineproexchange)
         - [电报](https://t.me/OnlinePro_Exchange)
+
+### FT公链相关
+
+- FT公链超级节点竞选节点：
+    - CoinLinker
+        - [官网](https://www.coinlinker.io)
         
 - 日本社区的FToken节点
     - FTokenTokyo
         - [电报](https://t.me/ftokentokyo)
         
-## FCoin相关博客，记事等
+### FCoin相关博客，记事等
 
 我们正在收集有关FCoin或FT的网页链接。
 在FCoin 说明书上发布的链接有三个条件。
@@ -38,6 +44,10 @@ description: 相关链接合集页面
 如果违反上述规定，就从FCoin 说明书中删除链接。  
 如需要咨询，请按[此处](https://twitter.com/lucied2007)（Twitter）。
         
+# FMex
+
+- FMex
+    - [FMex官网](https://www.fmex.com/)
 
 # FCoinJP
 
