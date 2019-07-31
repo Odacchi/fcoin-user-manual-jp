@@ -141,7 +141,10 @@ FT的挖矿与之思路相同，是指通过在FCoin平台付出劳动力，成�
 | FT发放时间 | 次日内 |
     
 ### 解説
-盘口上下11档价格内为排序挖矿参与对象。
+盘口上下11档价格内为排序挖矿参与对象。  
+买卖挂单越接近最新价格、订单金额越大，则挖矿效率越高。
+
+需要注意的是，排序挖矿在每天24点（GMT+8）会充值，因此如果想要继续挖矿的话，需要每天24点之后重新挂单。
 
 <div style="text-align: right;">
    <a href="https://fcoin.zendesk.com/hc/zh-cn/articles/360029974394-Announcement-on-the-Upgrade-of-Sorting-Mining-Rules" target="_brank">排序挖矿规则升级公告</a>  
