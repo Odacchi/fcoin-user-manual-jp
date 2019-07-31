@@ -73,8 +73,9 @@ FCoin Fund每周五会将该周分红用于回购销毁，
 ## 手续费制度
 
 主板A完全免费。  
-主板B和创新板上，主动吃支付手续费，挂单被动成交赚取手续费剩余的余额是平台收入。  
-FOne上只有卖家需要支付手续费。
+在主板B和创新板交易，Maker（挂单被动成交）可以赚取手续费，Taker（主动吃单）支付手续费，差额部分为平台收入。  
+FOne上，只有卖方需要支付手续费。
+
 ![FCoin手续费制度](./images/trading-fees.jpg)
   
 FCoin官方的手续费表请前往[这里](https://fcoin.zendesk.com/hc/zh-cn/articles/360003715514)
