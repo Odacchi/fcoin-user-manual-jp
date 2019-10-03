@@ -134,7 +134,7 @@ description: 这是为了想要整体掌握FCoin所提供的服务的人而建�
 
     <dl>
         <dt>大额提现</dt>
-        <dd>单日提现2BTC或者20ETH以上，需要KYC</dd>
+        <dd>单日提现总共2BTC以上，需要KYC</dd>
     </dl>
     <dl>
         <dt>
