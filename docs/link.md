@@ -49,7 +49,6 @@ FCoin日本コミュニティ向けに特化した取引プラットフォーム
     - [FCoinJP公式サイト](https://www.fcoinjp.com)
     - [FCoinJP公式Twitter](https://twitter.com/fcoin_jp)
     - [FCoinJP公式Telegram](https://t.me/FCoinJPofficial)
-    - [FCoinJP公認ブログ](https://fcoin-fan.jp/)
     
 # FCoin, FT関連ブログ、記事等
     
