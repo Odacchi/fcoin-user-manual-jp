@@ -13,9 +13,12 @@ description: 関連リンクを掲載するページ
     - [FToken公式サイト](https://ftoken.com)
     - [FCoin公式Twitter（英語）](https://twitter.com/FCoinOfficial)
 
-- FCoin日本コミュニティTelegram
-    - [FCoinお知らせ](https://t.me/fcoinfanjapanese)
-    - [FCoin雑談](https://t.me/fcoinchatjapanese)
+- FCoin日本コミュニティ
+    - Telegram
+        - [FCoinお知らせ](https://t.me/fcoinfanjapanese)
+        - [FCoin雑談](https://t.me/fcoinchatjapanese)
+    - Note
+        - [FCoinお知らせチャンネル](https://note.mu/fcoinfanjapanese)
     
 - 日本コミュニティ発FOne取引ゾーン
     - Online Pro Exchange
@@ -26,7 +29,7 @@ description: 関連リンクを掲載するページ
 FCoinチームによる先物取引プラットフォーム
 
 - FMex公式
-    - [FMex公式サイト](https://www.fmex.com/)
+    - [FMex公式サイト](https://fmex.com/)
     - Telegram
         - [FMex公式Telegram（中国語）](https://t.me/FMexOfficial)
         - [FMex公式Telegram（英語）](https://t.me/FMexEnglish)
@@ -52,6 +55,8 @@ FCoin日本コミュニティ向けに特化した取引プラットフォーム
     
 - ブログ
     - [FCoin LIFE](https://coin-overallnews.com)
+- YouTubeチャンネル
+    - [Goingmerry 6seater](https://www.youtube.com/channel/UCInW7R8PV3hs8buiNkuYg3w)
 - 記事
    
 # FCoinトリセツからのお知らせ
