@@ -22,7 +22,16 @@ description: 関連リンクを掲載するページ
         - [トップページ](https://www.fcoin.com/category/onlineproexchange)
         - [Telegram](https://t.me/OnlinePro_Exchange)
         
-### FTパブリックチェーン関連
+# FMex
+FCoinチームによる先物取引プラットフォーム
+
+- FMex公式
+    - [FMex公式サイト](https://www.fmex.com/)
+    - Telegram
+        - [FMex公式Telegram（中国語）](https://t.me/FMexOfficial)
+        - [FMex公式Telegram（英語）](https://t.me/FMexEnglish)
+        
+# FTパブリックチェーン関連
 - FTパブリックチェーンのスーパーノード候補：
     - CoinLinker
         - [公式サイト](https://www.coinlinker.io)
@@ -30,12 +39,6 @@ description: 関連リンクを掲載するページ
     - FTokenTokyo
         - [Telegram](https://t.me/ftokentokyo)
         
-### FCoin関連ブログ、記事等
-    
-- ブログ
-    - [FCoin LIFE](https://coin-overallnews.com)
-- 記事
-
 # FCoinJP
 FCoin日本コミュニティ向けに特化した取引プラットフォーム
 
@@ -44,15 +47,13 @@ FCoin日本コミュニティ向けに特化した取引プラットフォーム
     - [FCoinJP公式Twitter](https://twitter.com/fcoin_jp)
     - [FCoinJP公式Telegram](https://t.me/FCoinJPofficial)
     - [FCoinJP公認ブログ](https://fcoin-fan.jp/)
+    
+# FCoin, FT関連ブログ、記事等
+    
+- ブログ
+    - [FCoin LIFE](https://coin-overallnews.com)
+- 記事
    
-# FMex
-9月サービス開始予定のFCoinチームによる先物取引プラットフォーム
-
-- FMex
-    - [FMex公式サイト](https://www.fmex.com/)
-    
-    
-
 # FCoinトリセツからのお知らせ
 
 こちらのページに掲載する`FCoinもしくはFTに関するWebページのリンク`を募集しております。  
