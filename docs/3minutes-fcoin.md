@@ -113,9 +113,13 @@ FMEXロックアップによる毎日の配当総額はFMEXプラットフォー
 ## コントラクト口座（Contract account）
 最大レバレッジ100倍の先物取引用口座。
 口座の実体は、FCoinによる先物取引プラットフォームFMEX用の口座であり、こちらに入金すると、FMEXですぐに取引ができる。
-FCoinとFMEX間の資金移動は無料で即時反映される。
+FCoinとFMEX間の資金移動は無料で即時反映され、アカウントもFCoinと完全に共用である。
 FMEXを利用するには、FCoinアプリを利用するか、FMEXの公式サイトに移動する必要がある（FCoinのトップページにリンクがある）。
 また、プラットフォーム自体が別であるため、コントラクト口座での取引時はFTではなく、FMEXトークンがマイニングされる。
+
+<div style="text-align: right;">
+    <a href="https://fmex.com/" target="_brank">FMEX公式サイトへ</a>  
+</div>  
 
 ---
 
