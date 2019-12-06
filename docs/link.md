@@ -30,9 +30,13 @@ FCoinチームによる先物取引プラットフォーム
 
 - FMex公式
     - [FMex公式サイト](https://fmex.com/)
+    - [FMex公式Twitter（英語）](https://twitter.com/FMexOfficial)
     - Telegram
         - [FMex公式Telegram（中国語）](https://t.me/FMexOfficial)
         - [FMex公式Telegram（英語）](https://t.me/FMexEnglish)
+        
+- FMex日本コミュニティ
+    - [FMex日本コミュニティTwitter](https://twitter.com/FMexJP)
         
 # FTパブリックチェーン関連
 - FTパブリックチェーンのスーパーノード候補：
