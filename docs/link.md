@@ -17,14 +17,10 @@ description: 関連リンクを掲載するページ
     - Telegram
         - [FCoinお知らせ](https://t.me/fcoinfanjapanese)
         - [FCoin雑談](https://t.me/fcoinchatjapanese)
+        - [FCoin質問](https://t.me/joinchat/H6Li9VMbf4A0XPt6DeJgVA)
     - Note
         - [FCoinお知らせチャンネル](https://note.mu/fcoinfanjapanese)
     
-- 日本コミュニティ発FOne取引ゾーン
-    - Online Pro Exchange
-        - [トップページ](https://www.fcoin.com/category/onlineproexchange)
-        - [Telegram](https://t.me/OnlinePro_Exchange)
-        
 # FMex
 FCoinチームによる先物取引プラットフォーム
 
