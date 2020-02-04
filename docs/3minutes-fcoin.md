@@ -118,6 +118,10 @@ FMEXを利用するには、FCoinアプリを利用するか、FMEXの公式サ�
 また、プラットフォーム自体が別であるため、コントラクト口座での取引時はFTではなく、FMEXトークンがマイニングされる。
 
 <div style="text-align: right;">
+    <a href="./fmex.html" target="_brank">トリセツのFMex解説ページへ</a>  
+</div>  
+
+<div style="text-align: right;">
     <a href="https://fmex.com/" target="_brank">FMEX公式サイトへ</a>  
 </div>  
 

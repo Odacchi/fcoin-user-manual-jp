@@ -12,6 +12,7 @@ FTホルダーのFTホルダーによるFTホルダーのためのFCoinトリセ
 
 - [3分でFCoinのサービスを理解するページ](./3minutes-fcoin.html)
 - [マイニング詳解](./about-mining.html)
+- [FMex - FCoinがつくったビットコインFX](./fmex.html)
 - [よくある質問](./faq.html)
 - [リンク集](./link.html)
 
