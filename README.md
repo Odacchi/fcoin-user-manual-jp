@@ -5,12 +5,13 @@ FCoinの日本語取扱説明書（トリセツ）をつくる個人的プロジ
 
 ## ローカルでの実行
 
-Macを想定しています。
+MacかUbuntuを想定しています。
 
 ### 初期設定
 
 以下のコマンドを叩いてください。
 
+- Mac
 ~~~
 $ brew install rbenv ruby-build
 $ echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
@@ -19,6 +20,24 @@ $ rbenv install 2.6.0
 $ rbenv global 2.6.0
 $ gem install bundler
 $ bundle install --path vendor/bundle
+~~~
+
+- Ubuntu
+~~~
+$ sudo apt-get install autoconf bison build-essential libssl-dev libyaml-dev libreadline6-dev zlib1g-dev libncurses5-dev libffi-dev libgdbm5 libgdbm-dev
+$ git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+$ git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+$ echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bash_profile
+$ ~/.rbenv/bin/rbenv init  # 出力される指示に従う
+$ source ~/.bash_profile
+
+$ rbenv install 2.6.0
+$ rbenv global 2.6.0
+$ gem update
+$ gem install bundler
+$ bundle install --path vendor/bundle
+# ↑失敗する場合は、sudo chmod -R 777  /home/<ユーザー名>/.bundle/cache/compact_index　などで権限を変える
+
 ~~~
 
 ### 起動
