@@ -1,6 +1,6 @@
 ---
 title: FCoinトリセツ。
-description: オープンソースのFCoin取扱説明書
+description: FCoinへの出金申請手順について
 ---
 
 <div style="text-align: right;">
@@ -22,7 +22,7 @@ description: オープンソースのFCoin取扱説明書
 （理財口座へ預けていた方も一部で出金報告があったようです。）
 
 ## 出金手順
-1. 所定の形式で withdrawal@fcoin.com にメールを送信します。
+1. 所定の形式で `withdrawal@fcoin.com` にメールを送信します。  
 （すでにメールを送信済みのユーザーは繰り返し送信する必要はありません）
 
     形式は以下のとおりです。
