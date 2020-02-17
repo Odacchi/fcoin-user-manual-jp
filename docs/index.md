@@ -15,6 +15,8 @@ description: FCoinへの出金申請手順について
 公式のアナウンスは[コチラ（中国語）](https://fcoin.zendesk.com/hc/zh-cn/articles/360043503273-FCoin%E7%9C%9F%E7%9B%B8)。  
 英語の翻訳記事は[コチラ](https://www.reddit.com/r/FCoin_Official/comments/f579v4/fcoin_truth/)。  
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">📌FCoinの真実<br><br>CEOの　張健　名義で<br>お知らせが出ました。<br><br>結論だけ言うと、<br><br>「FCoinとしては終わった　でも　3年以内に賠償するために張健個人としては別プロジェクトでがんばる。詳細は別途。」<br><br>ということのようです。<a href="https://t.co/SdKsYlwnya">https://t.co/SdKsYlwnya</a><a href="https://twitter.com/hashtag/FCoin?src=hash&amp;ref_src=twsrc%5Etfw">#FCoin</a><a href="https://twitter.com/hashtag/FMex?src=hash&amp;ref_src=twsrc%5Etfw">#FMex</a></p>&mdash; おだっち@FCoin焼け野原 (@lucied2007) <a href="https://twitter.com/lucied2007/status/1229378360440045570?ref_src=twsrc%5Etfw">February 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 # 出金申請
 公式ページは止まっていますが、資産を預けていた方は、出金申請が可能です。
