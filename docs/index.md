@@ -18,6 +18,7 @@ description: FCoinへの出金申請手順について
 結論だけ書くと以下のような内容です。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">📌FCoinの真実<br><br>CEOの　張健　名義で<br>お知らせが出ました。<br><br>結論だけ言うと、<br><br>「FCoinとしては終わった　でも　3年以内に賠償するために張健個人としては別プロジェクトでがんばる。詳細は別途。」<br><br>ということのようです。<a href="https://t.co/SdKsYlwnya">https://t.co/SdKsYlwnya</a><a href="https://twitter.com/hashtag/FCoin?src=hash&amp;ref_src=twsrc%5Etfw">#FCoin</a><a href="https://twitter.com/hashtag/FMex?src=hash&amp;ref_src=twsrc%5Etfw">#FMex</a></p>&mdash; おだっち@FCoin焼け野原 (@lucied2007) <a href="https://twitter.com/lucied2007/status/1229378360440045570?ref_src=twsrc%5Etfw">February 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+---
 
 # 出金申請
 公式ページは止まっていますが、資産を預けていた方は、出金申請が可能です。
@@ -30,26 +31,32 @@ description: FCoinへの出金申請手順について
 前述のアナウンスを信じて3年以内の賠償を待つ以外に方法はなさそうです。
 
 
-## 出金手順
+## 出金申請の手順
 1. 所定の形式で `withdrawal@fcoin.com` にメールを送信します。  
 （すでにメールを送信済みのユーザーは繰り返し送信する必要はありません）
 
     形式は以下のとおりです。
     
-    - 件名：  
-    "Apply for withdrawal + ユーザー名"
+    <table style="margin-bottom: 8px;">
+        <tr><td>件名</td><td>"Apply for withdrawal + ユーザー名"</td></tr>
+        <tr>
+            <td>本文</td>
+            <td>
+                "通貨名1: 数量, 出金先アドレス,<br>
+                 通貨名2: 数量, 出金先アドレス,<br>
+                 ...(以下略)...”
+            </td>
+        </tr>
+    </table>
     
-    - 本文：  
-    "通貨名1: 数量, 出金先アドレス,  
-     通貨名2: 数量, 出金先アドレス,  
-     ...”
-     
-     *ユーザー名はメールアドレスではなく、FCoinに登録しているユーザー名に置き換えてください。  
-     *通貨名1, 通貨名2の箇所は、具体的な通貨名（BTC, ETH, USDT）を記入してください。  
-      →USDTの場合は、OMNIやERC20など複数のバージョンがありますが、理屈ではアドレスから判断可能です。不安な方はUSDT(OMNI)などと書くと良いかもしれません。  
-     *数量は、通貨の枚数を（記憶の限りできるだけ正確に）入力してください。ある程度の誤差は許容されるようです。  
-     *出金先アドレスは実際の出金先アドレスを正確に入力してください。出金までの時間が予測できない以上、将来利用不可になりうるアドレスを指定するのはおすすめできません。  
-     
+    申請時の注意点です。メール送信前に十分注意してください。
+    
+    - ユーザー名はメールアドレスではなく、FCoinに登録しているユーザー名に置き換えてください。  
+    - 通貨名1, 通貨名2の箇所は、具体的な通貨名（BTC, ETH, XRP, USDT等）を記入してください。  
+    →USDTの場合は、OMNIやERC20など複数のバージョンがありますが、理屈ではアドレスから判断可能です。不安な方はUSDT(OMNI)などと書くと良いかもしれません。  
+    - 数量は、通貨の枚数を（記憶の限りできるだけ正確に）入力してください。ある程度の誤差は許容されるようです。  
+    - 出金先アドレスは実際の出金先アドレスを正確に入力してください。出金までの時間が予測できない以上、将来利用不可になりうるアドレスを指定するのはおすすめできません。  
+    <div style="margin-bottom: 8px;"></div> 
 
 2. FCoin側で基本的な情報を確認した後、送信元のメールアドレスに対し確認コードを送信します。
 
@@ -62,6 +69,7 @@ description: FCoinへの出金申請手順について
 5. ユーザーは、引き出し要求が処理されたというメールを受け取ります。
 （このステップが完了すると、ユーザーは関連する引き出し通貨を受け取ります）
 
+---
 
 # リンク
 - FCoin公式
