@@ -21,14 +21,17 @@ description: FCoinへの出金申請手順について
 ---
 
 # 出金申請
-公式ページは止まっていますが、資産を預けていた方は、出金申請が可能です。
-以下の方法で出金申請を行って下さい。
+公式ページは止まっていますが、資産を預けていた方は、出金申請が可能です。  
+[出金申請の手順](#出金申請の手順)に記載の方法で出金申請を行って下さい。
 
-理財口座へ預けていた方も、出金報告がありました。  
+理財口座へ預けていた方でも、出金報告がありました。  
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">financing.</p>&mdash; Richard (@Richardbsver) <a href="https://twitter.com/Richardbsver/status/1228663344640356352?ref_src=twsrc%5Etfw">February 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 しかし、FTやFMEXなどのF銘柄のトークンで保有していたユーザーの場合は、出金できたところで事実上無価値であるため、
 前述のアナウンスを信じて3年以内の賠償を待つ以外に方法はなさそうです。
+また、FCoinの登録メールアドレスがすでに使えない状況の方や資産残高を覚えていない方は、別途出金方法を用意される予定ですが、
+進展はアナウンス待ちとなっています。
+
 
 
 ## 出金申請の手順
