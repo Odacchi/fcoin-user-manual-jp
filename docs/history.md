@@ -24,13 +24,12 @@ description: FCoinの状況を時系列順に説明
 ```
 現在、コミュニティ委員会と張建は再開計画について議論しており、
 続報は進捗にあわせて順次コミュニティに開示されます。
+
+2020年2月21日
 ```
 
 原文は[コチラ（中国語）](https://fcoin.zendesk.com/hc/zh-cn/articles/360043138134-%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%E5%85%AC%E5%91%8A)。  
 
-コミュニティ委員会とはFTホルダーへの占拠で選ばれたユーザー代表の人たちを指します。
+コミュニティ委員会とは、FTホルダーへの占拠で選ばれたユーザー代表の人たちを指します。
 現在のコミュニティ委員会メンバーは[コチラ](https://fcoin.zendesk.com/hc/en-us/articles/360042208493-Result-Publicity-on-the-Referendum-of-the-Third-Community-Committee-campaign)。
  
-2020年2月21日
-    
-        
