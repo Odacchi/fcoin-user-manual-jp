@@ -7,16 +7,15 @@ description: FCoinへの出金申請手順について
     <small>*本トリセツはMITライセンスによるオープンソースソフトウェアです。</small>
 </div> 
 
-
 # FCoinが事実上の経営破綻に
 
-最大130億円相当の支払いが困難な状況になっています。  
+公式のアナウンスによると、最大130億円相当の支払いが困難な状況になっていることが明らかになりました。  
 
-公式のアナウンスは[コチラ（中国語）](https://fcoin.zendesk.com/hc/zh-cn/articles/360043503273-FCoin%E7%9C%9F%E7%9B%B8)。  
-英語の翻訳記事は[コチラ](https://www.reddit.com/r/FCoin_Official/comments/f579v4/fcoin_truth/)。  
-
-結論だけ書くと以下のような内容です。
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">📌FCoinの真実<br><br>CEOの　張健　名義で<br>お知らせが出ました。<br><br>結論だけ言うと、<br><br>「FCoinとしては終わった　でも　3年以内に賠償するために張健個人としては別プロジェクトでがんばる。詳細は別途。」<br><br>ということのようです。<a href="https://t.co/SdKsYlwnya">https://t.co/SdKsYlwnya</a><a href="https://twitter.com/hashtag/FCoin?src=hash&amp;ref_src=twsrc%5Etfw">#FCoin</a><a href="https://twitter.com/hashtag/FMex?src=hash&amp;ref_src=twsrc%5Etfw">#FMex</a></p>&mdash; おだっち@FCoin焼け野原 (@lucied2007) <a href="https://twitter.com/lucied2007/status/1229378360440045570?ref_src=twsrc%5Etfw">February 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+### 2020/2/21追記  
+  公式のアナウンスで、再建の協議が行われていることが説明されました。
+  詳しい状況は以下をご覧下さい。何か進展があれば以下のリンクに随時更新していきます。  
+  
+  [FCoinの状況について](./history.html)
 
 ---
 
@@ -24,17 +23,13 @@ description: FCoinへの出金申請手順について
 公式ページは止まっていますが、資産を預けていた方は、出金申請が可能です。  
 [出金申請の手順](#出金申請の手順)に記載の方法で出金申請を行って下さい。
 
-理財口座へ預けていた方でも、出金報告がありました。  
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">financing.</p>&mdash; Richard (@Richardbsver) <a href="https://twitter.com/Richardbsver/status/1228663344640356352?ref_src=twsrc%5Etfw">February 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 しかし、FTやFMEXなどのF銘柄のトークンで保有していたユーザーの場合は、出金できたところで事実上無価値であるため、
 前述のアナウンスを信じて3年以内の賠償を待つ以外に方法はなさそうです。
 また、FCoinの登録メールアドレスがすでに使えない状況の方や資産残高を覚えていない方は、別途出金方法を用意される予定ですが、
 進展はアナウンス待ちとなっています。
 
 
-
-## 出金申請の手順
+### 出金申請の手順
 1. 所定の形式で `withdrawal@fcoin.com` にメールを送信します。  
 （すでにメールを送信済みのユーザーは繰り返し送信する必要はありません）
 
@@ -71,6 +66,13 @@ description: FCoinへの出金申請手順について
 
 5. ユーザーは、引き出し要求が処理されたというメールを受け取ります。
 （このステップが完了すると、ユーザーは関連する引き出し通貨を受け取ります）
+
+
+### 出金の報告  
+理財口座へ預けていた方でも、出金報告がありました。  
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">financing.</p>&mdash; Richard (@Richardbsver) <a href="https://twitter.com/Richardbsver/status/1228663344640356352?ref_src=twsrc%5Etfw">February 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+また、Telegramでは、日本ユーザーの一部に出金の報告もありました。
 
 ---
 
