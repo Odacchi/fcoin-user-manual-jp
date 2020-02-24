@@ -53,6 +53,7 @@ description: FCoinへの出金申請手順について
     申請時の注意点です。メール送信前に十分注意してください。
     
     - ユーザー名はメールアドレスではなく、FCoinに登録しているユーザー名に置き換えてください。  
+      →覚えていない方は、過去FCoinへのログイン時に届いていたメールを確認するとユーザー名がのっているので確認してください。
     - 通貨名1, 通貨名2の箇所は、具体的な通貨名（BTC, ETH, XRP, USDT等）を記入してください。  
     →USDTの場合は、OMNIやERC20など複数のバージョンがありますが、理屈ではアドレスから判断可能です。不安な方はUSDT(OMNI)などと書くと良いかもしれません。  
     - 数量は、通貨の枚数を（記憶の限りできるだけ正確に）入力してください。ある程度の誤差は許容されるようです。  
@@ -75,7 +76,8 @@ description: FCoinへの出金申請手順について
 理財口座へ預けていた方でも、出金報告がありました。  
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">financing.</p>&mdash; Richard (@Richardbsver) <a href="https://twitter.com/Richardbsver/status/1228663344640356352?ref_src=twsrc%5Etfw">February 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-また、Telegramでは、日本ユーザーの一部に出金の報告もありました。
+また、Telegramでは、日本ユーザーの一部に出金の報告もありました。  
+これまでの日本ユーザーの報告によると、かならずしも申請順ではなく、ある程度無作為に選ばれ処理されているようです。
 
 ---
 
