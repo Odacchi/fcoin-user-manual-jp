@@ -44,7 +44,7 @@ description: FCoinの状況を時系列順に説明
 > 
 > 現在のメール出金申請の処理状況を照会したり、出金キュー（訳注: 順番待ち行列）への参加を申請したりできます。
 
-原文は[コチラ（中国語）](https://fcoin.zendesk.com/hc/zh-cn/articles/360044085213-邮件提现查询页面上线)
+原文は[コチラ（中国語）](https://fcoin.zendesk.com/hc/zh-cn/articles/360044085213-邮件提现查询页面上线)。
 
 ---
 
@@ -64,7 +64,7 @@ description: FCoinの状況を時系列順に説明
 >
 > 2020年2月27日
 
-原文は[コチラ（中国語）](https://fcoin.zendesk.com/hc/zh-cn/articles/360044130453-FCoin%E5%8F%8AFMex%E9%87%8D%E5%90%AF%E5%B7%A5%E4%BD%9C%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B%E5%85%AC%E5%91%8A)
+原文は[コチラ（中国語）](https://fcoin.zendesk.com/hc/zh-cn/articles/360044130453-FCoin%E5%8F%8AFMex%E9%87%8D%E5%90%AF%E5%B7%A5%E4%BD%9C%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B%E5%85%AC%E5%91%8A)。
 
 ---
 
@@ -94,7 +94,7 @@ description: FCoinの状況を時系列順に説明
 > 
 > 2020年2月29日
 
-原文は[コチラ（英語）](https://fcoin.zendesk.com/hc/en-us/articles/360043802294-The-statement-on-speeding-up-the-restart-of-FCoin-)
+原文は[コチラ（英語）](https://fcoin.zendesk.com/hc/en-us/articles/360043802294-The-statement-on-speeding-up-the-restart-of-FCoin-)。
 
 ---
 
@@ -103,107 +103,14 @@ description: FCoinの状況を時系列順に説明
 直前のお知らせにもとづき、FCoinのウォレットの一部が公開されました。
 現在、整理している段階とのことであり、引き続き順次公開される予定です。
 
-BTC：
+FCoinトリセツでは以下のページに順次まとめていきます。
 
-363sZdacGE5DVZzurmAh6MYqWLX5TXRQuv
-
-12frb3wVTGakMxnTjgHpeUDaM2tfxBNuCf
-
- 
-
-ETH： 
-
-0x5A1b068Da150Cc054eaC01e9a853497eb561AeB4
-
-0x9B823e3300b7588405694E2700E3Dd792C8A61C2
-
- 
-
-EOS：
-
-mi3gtqjpearm
-
- 
-
-XRP：
-
-rwEuESXCnPPxCD8FbVQLcR6qyr5uhoJPNL
-
- 
-
-LTC：
-
-Lbsc2BsUyUwmoAhjNSGv2145h98L1A8jvY
-
- 
-
-TRX：
-
-TEdzzH5wgDiutV2N3aaeX56vaR2aFJGPkk
-
-TVhk5MBK7pA4MEUTegafHiN4yNCGvS5dNv
+[FCoinの資産ウォレット一覧](./wallets.html)
 
 
-ETC: 
+原文1は[コチラ（英語）](https://fcoin.zendesk.com/hc/en-us/articles/360043806874-FCoin-balance-Asset-Transparency-Program-address-Public-No-1-Wallet-funds-estimate-44-million-RMB)。
 
-0x28EB1E4530911757E3FFd791573E107a8F7937e9 
-
- 
-
-BCH: 
-
-qqkpl3urk8dqq5nzftr8xwl8dut2n49n5qy64ndy7g 
-
- 
-
-BSV:
-
-qqkpl3urk8dqq5nzftr8xwl8dut2n49n5qy64ndy7g
-
- 
-
-ADA:
-
-DdzFFzCqrhstC2PDd8pNeLvumuN782eWioq8RWeHHDy2NfdnEtx1W9dgsiCZbfGS5mDByYyVPbeZwG3CmEYSRUU4ee1C9NNGbSyA5gno
-
- 
-
-DASH:
-
-Xy7b7WTWVuP1YhYPBRAddxaNyfBthg3vAq 
-
- 
-
-TUSD:
-
-0x9B823e3300b7588405694E2700E3Dd792C8A61C2
-
- 
-
-USDC:
-
-0x9B823e3300b7588405694E2700E3Dd792C8A61C2 
-
- 
-
-XLM:
-
-GDRWFL7HX2AKT5KYEVEYJE35SOO7BTNMPSDF3YGRXFZJ25ASV2NZXQQG
-
- 
-
-ZEC:
-
-t1b22GdMXmDmkWENUWwi3SXHn7P7gesRopv
-
-
-ZIP:
-
-0x9B823e3300b7588405694E2700E3Dd792C8A61C2 
-
-
-原文1は[コチラ（英語）](https://fcoin.zendesk.com/hc/en-us/articles/360043806874-FCoin-balance-Asset-Transparency-Program-address-Public-No-1-Wallet-funds-estimate-44-million-RMB)  
-原文2は[コチラ（英語）](https://fcoin.zendesk.com/hc/en-us/articles/360044308133-FCoin-balance-Asset-Transparency-Program-address-Public-No-2-Wallet-funds-estimate-23-million-RMB)
+原文2は[コチラ（英語）](https://fcoin.zendesk.com/hc/en-us/articles/360044308133-FCoin-balance-Asset-Transparency-Program-address-Public-No-2-Wallet-funds-estimate-23-million-RMB)。
 
 ---
 
@@ -323,3 +230,5 @@ ZIP:
 > 
 > 3.6
 > すべての権利と利益を享受するためのFCoinおよびFMexプラットフォームの唯一のトークンとしてのFTおよびFMの原則は変更されてしません。
+
+原文は[コチラ（英語）](https://fcoin.zendesk.com/hc/en-us/articles/360043817914-FCoin-restart-existing-work-progress-report-and-restart-plan)。
