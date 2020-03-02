@@ -272,3 +272,11 @@ description: FCoinの資産ウォレット一覧
         </ul>
     </dd>
 </dl>
+
+
+### 情報のソース
+
+以下の公式のお知らせをもとにリンクをつけてまとめています。
+
+- [FCoin balance Asset Transparency Program address Public (No.1) Wallet funds estimate 44 million RMB](https://fcoin.zendesk.com/hc/en-us/articles/360043806874-FCoin-balance-Asset-Transparency-Program-address-Public-No-1-Wallet-funds-estimate-44-million-RMB)
+- [FCoin balance Asset Transparency Program address Public (No.2) Wallet funds estimate 23 million RMB](https://fcoin.zendesk.com/hc/en-us/articles/360044308133-FCoin-balance-Asset-Transparency-Program-address-Public-No-2-Wallet-funds-estimate-23-million-RMB)
