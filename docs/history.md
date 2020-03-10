@@ -260,45 +260,18 @@ FCoinトリセツでは以下のページに順次まとめていきます。
 
 ### 2020/3/7 FCoinウォレットをコミュニティに移譲するお知らせ
 
-> コミュニティユーザーの皆様：
-> 
-> 以前に発表した事項を引き続き遂行しており、ウォレットの転送は今日から始まりました。これらは一時的に安全のために暫定委員会によって署名（訳注：マルチシグウォレットの電子署名を指しており、鍵の権限を持つ複数人の許可がなければ出金できない仕組みのために必要）されており、プラットフォームが再起動してオンラインに戻った後、新しいコミュニティ委員会を選出する国民投票を実施し、ウォレットをコミュニティに移行します。その後コミュニティの支援によって機関などの仕組みを導入し、マルチシグや共同監視を強化し、「真のコミュニティガバナンス、真に透明化された資産」の達成に努めます。
-> 
-> 以下は、ウォレットの公開アドレスです：
-> 
-> BTC 38TjJcPm8uqgWNHzhRBpE5iPJyFroeKAtP
-> 
-> ETH 0xbe1d4d05def24e61cfbf5d0fa85a2fdcaf4bc490
-> 
-> BCH 38TjJcPm8uqgWNHzhRBpE5iPJyFroeKAtP
-> 
-> LTC MEfscVoj62h7JsZtoJBA3ixndfrJoE2EkD
-> 
-> DASH 7ZBN8ofvwtwKW8pwy2rKZTi3EX6EipE164
-> 
-> USDC 0x91fc0db5949fe2487052b876b65ec95aaf70576c
-> 
-> TUSD 0x7dbef23f62869491a5b323f617a7276c020bad2d
-> 
-> XRP rBTghBwyaSisH6WGmo4kP3SARjRAYTnXRY
-> 
-> ETC 0x34A0af95db7Fcae440355fae506A73a03d611C5b
-> 
-> BSV qrrt0edetfmuaqsm0560y27l2fejhrr8kv82udxwkn
-> 
-> XLM GCC2DSQWRQBXUQUFEPMUDFGGL6BSWKEJ7JQWZXSP5TGB42QXC7Y3PIYC
-> 
-> ZEC t1b6eKDfdC2A7DbkHRw1UAynX1w1NCGquni
-> 
-> USDT(OMNI)3CVv8U9HB38a3r21y5xipYMAHeYgW72v3h
-> 
-> TRX TJAMJ5ECjCxqEjyhmpFakBQQWV7K7mcLfG
-> 
-> USDT(TRC20)TJAMJ5ECjCxqEjyhmpFakBQQWV7K7mcLfG
-> 
-> EOS fcoinfund555
-> 
-> ADA Ae2tdPwUPEZLqRDbCK6YPFHQcqpyREGoUUHzsJp6J12ZpYUrxm6JTLdvoiX
-> 
-> ERC20通貨 0x34A0af95db7Fcae440355fae506A73a03d611C5b
+新運営チームのウォレットが公開されました。
+FCoinトリセツでは以下のページに順次まとめていきます。
+
+[FCoinの資産ウォレット一覧](./wallets.html#fcoin新運営チームのウォレットアドレス)
+
+お知らせの内容は以下の通りです。
+
+> 以前に発表した事項を引き続き遂行しており、ウォレットの転送は今日から始まりました。
+> これらは一時的に安全のために暫定委員会によって署名（訳注：マルチシグウォレットの電子署名を指しており、鍵の権限を持つ複数人の許可がなければ出金できない仕組みのために必要）されており、
+> プラットフォームが再起動してオンラインに戻った後、新しいコミュニティ委員会を選出する国民投票を実施し、
+> ウォレットをコミュニティに移行します。その後コミュニティの支援によって機関などの仕組みを導入し、
+> マルチシグや共同監視を強化し、「真のコミュニティガバナンス、真に透明化された資産」の達成に努めます。
+ 
+原文は[コチラ（英語）](https://fcoin.zendesk.com/hc/en-us/articles/360044144474-Public-announcement-of-wallet-handover-in-fcoin-community)。
 
