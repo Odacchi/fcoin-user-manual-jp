@@ -323,7 +323,7 @@ description: FCoinの資産ウォレット一覧
     <dd>
         <ul>
             <li>
-                <a href="https://explorer.bitcoin.com/bch/address/bitcoincash:38TjJcPm8uqgWNHzhRBpE5iPJyFroeKAtP" target="_brank">
+                <a href="https://explorer.bitcoin.com/bch/address/38TjJcPm8uqgWNHzhRBpE5iPJyFroeKAtP" target="_brank">
                     38TjJcPm8uqgWNHzhRBpE5iPJyFroeKAtP
                 </a>
             </li>
