@@ -473,7 +473,7 @@ description: FCoinの資産ウォレット一覧
     <dd>
         <ul>
             <li>
-                <a href="https://www.blockchain.com/btc/address/3CVv8U9HB38a3r21y5xipYMAHeYgW72v3h" target="_brank">
+                <a href="https://omniexplorer.info/search/3CVv8U9HB38a3r21y5xipYMAHeYgW72v3h" target="_brank">
                     3CVv8U9HB38a3r21y5xipYMAHeYgW72v3h
                 </a>
             </li>
