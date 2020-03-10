@@ -257,3 +257,48 @@ FCoinトリセツでは以下のページに順次まとめていきます。
 > 10. 再スタートの成功や失敗を問わず、そして、最終的に借金の返済に失敗した場合は、私の人生の責任です。
 
 原文は[コチラ（中国語）](https://fcoin.zendesk.com/hc/zh-cn/articles/360044590813-FCoin-FMex%E6%95%B0%E6%8D%AE%E6%8A%AB%E9%9C%B2%E5%8F%8A%E9%87%8D%E5%90%AF%E8%BF%9B%E5%B1%95%E5%85%AC%E5%91%8A)。
+
+### 2020/3/7 FCoinウォレットをコミュニティに移譲するお知らせ
+
+> コミュニティユーザーの皆様：
+> 
+> 以前に発表した事項を引き続き遂行しており、ウォレットの転送は今日から始まりました。これらは一時的に安全のために暫定委員会によって署名（訳注：マルチシグウォレットの電子署名を指しており、鍵の権限を持つ複数人の許可がなければ出金できない仕組みのために必要）されており、プラットフォームが再起動してオンラインに戻った後、新しいコミュニティ委員会を選出する国民投票を実施し、ウォレットをコミュニティに移行します。その後コミュニティの支援によって機関などの仕組みを導入し、マルチシグや共同監視を強化し、「真のコミュニティガバナンス、真に透明化された資産」の達成に努めます。
+> 
+> 以下は、ウォレットの公開アドレスです：
+> 
+> BTC 38TjJcPm8uqgWNHzhRBpE5iPJyFroeKAtP
+> 
+> ETH 0xbe1d4d05def24e61cfbf5d0fa85a2fdcaf4bc490
+> 
+> BCH 38TjJcPm8uqgWNHzhRBpE5iPJyFroeKAtP
+> 
+> LTC MEfscVoj62h7JsZtoJBA3ixndfrJoE2EkD
+> 
+> DASH 7ZBN8ofvwtwKW8pwy2rKZTi3EX6EipE164
+> 
+> USDC 0x91fc0db5949fe2487052b876b65ec95aaf70576c
+> 
+> TUSD 0x7dbef23f62869491a5b323f617a7276c020bad2d
+> 
+> XRP rBTghBwyaSisH6WGmo4kP3SARjRAYTnXRY
+> 
+> ETC 0x34A0af95db7Fcae440355fae506A73a03d611C5b
+> 
+> BSV qrrt0edetfmuaqsm0560y27l2fejhrr8kv82udxwkn
+> 
+> XLM GCC2DSQWRQBXUQUFEPMUDFGGL6BSWKEJ7JQWZXSP5TGB42QXC7Y3PIYC
+> 
+> ZEC t1b6eKDfdC2A7DbkHRw1UAynX1w1NCGquni
+> 
+> USDT(OMNI)3CVv8U9HB38a3r21y5xipYMAHeYgW72v3h
+> 
+> TRX TJAMJ5ECjCxqEjyhmpFakBQQWV7K7mcLfG
+> 
+> USDT(TRC20)TJAMJ5ECjCxqEjyhmpFakBQQWV7K7mcLfG
+> 
+> EOS fcoinfund555
+> 
+> ADA Ae2tdPwUPEZLqRDbCK6YPFHQcqpyREGoUUHzsJp6J12ZpYUrxm6JTLdvoiX
+> 
+> ERC20通貨 0x34A0af95db7Fcae440355fae506A73a03d611C5b
+
