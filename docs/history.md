@@ -275,3 +275,15 @@ FCoinトリセツでは以下のページに順次まとめていきます。
  
 原文は[コチラ（英語）](https://fcoin.zendesk.com/hc/en-us/articles/360044144474-Public-announcement-of-wallet-handover-in-fcoin-community)。
 
+### 2020/3/12 ログインのプラットフォーム再開と債券の変換
+
+FCoinにログインして資産状況を確認できるようになりました。
+すべての主要通貨資産は3月1日の平均市場価格に基づき計算されFUSD(1FUSD=1ドル相当のFCoinへの債権)に変換されている点に注意してください。  
+これまでに出金申請を完了したユーザーの資産反映は別途手動で処理されます。  
+また、取引や送金などはまだできないようです。
+
+ログインアドレス：  
+[https://www.fcoin.d73e969.com](https://www.fcoin.d73e969.com)
+
+原文は[コチラ（中国語）](https://fcoin.zendesk.com/hc/zh-cn/articles/360044351974-%E5%B9%B3%E5%8F%B0%E6%81%A2%E5%A4%8D%E7%99%BB%E5%BD%95%E5%8F%8A%E8%BD%AC%E5%80%BA%E8%AF%B4%E6%98%8E)
+
