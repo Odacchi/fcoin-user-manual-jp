@@ -43,6 +43,7 @@ FMexの復旧には約三ヶ月が必要とのこと。
 
 原文は[コチラ（英語）](https://fnotice.zendesk.com/hc/en-us/articles/360044785494)。  
 上記のお知らせの日本語訳は[コチラ(Telegram)](https://t.me/fcoinfanjapanese/1479)。
+
 ---
 
 # 出金申請
